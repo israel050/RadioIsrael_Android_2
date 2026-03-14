@@ -1,0 +1,4114 @@
+{
+  "stations": [
+    {
+      "id": "96fm",
+      "name": "קול רגע",
+      "page_url": "https://www.rlive.co.il/station/96fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/W99GRY2X96GVTJDM5T1IEKC6E@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "ah-fm",
+      "name": "AH.FM טראנס",
+      "page_url": "https://www.rlive.co.il/station/ah-fm",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://fr.ah.fm/live",
+      "logo_url": "https://cdn.rlive.co.il/01JWEB687S26QCVY2Y9KY3B6YA@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "69fm",
+      "name": "רדיו 69FM",
+      "page_url": "https://www.rlive.co.il/station/69fm",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/69fm",
+      "logo_url": "https://cdn.rlive.co.il/59HLDOXTW8DHAK0SVZLX0E1YB@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "91fm",
+      "name": "רדיו לב המדינה",
+      "page_url": "https://www.rlive.co.il/station/91fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/EH7FNTQZJDLP3SP2TQZJPYKR4@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "al-hagal",
+      "name": "רדיו חדש על הגל",
+      "page_url": "https://www.rlive.co.il/station/al-hagal",
+      "categories": [
+        "לפי סגנונות",
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il:8020/;?type=http\\u0026nocache=412",
+      "logo_url": "https://cdn.rlive.co.il/01JH82AS57BQ45SC33Z2254FED@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "93fm",
+      "name": "קול חי",
+      "page_url": "https://www.rlive.co.il/station/93fm",
+      "categories": [
+        "אזורי",
+        "דתי רוחני"
+      ],
+      "stream_url": "https://live.kcm.fm/live-new",
+      "logo_url": "https://cdn.rlive.co.il/KEZ5VEXRDY1WNT4NBQHS0AOKE@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "103fm",
+      "name": "103FM ללא הפסקה",
+      "page_url": "https://www.rlive.co.il/station/103fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/SQNCCXZUU5YESU7SBQAOKKURT@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "ambient-sleeping-pill",
+      "name": "רדיו מדיטציה‏ - Ambient Sleeping Pill",
+      "page_url": "https://www.rlive.co.il/station/ambient-sleeping-pill",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://radio.stereoscenic.com/asp-s",
+      "logo_url": "https://cdn.rlive.co.il/V4AOLB3MF5QTQSW0JFU0O3KCD@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "105-network",
+      "name": "רדיו איטליה 105",
+      "page_url": "https://www.rlive.co.il/station/105-network",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://icecast.unitedradio.it/Radio105.mp3",
+      "logo_url": "https://cdn.rlive.co.il/SYJH3QNJ6H8TNSHCDR2N3T0V3@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "104-5-fm",
+      "name": "רדיו צפון 104.5FM",
+      "page_url": "https://www.rlive.co.il/station/104-5-fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/HZLVLIXRD9BST0EKZXAUYXSFU@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "active-radio-90fm",
+      "name": "רדיו צרפת Activ",
+      "page_url": "https://www.rlive.co.il/station/active-radio-90fm",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://activradio-stetienne.ice.infomaniak.ch/stetienne.mp3",
+      "logo_url": "https://cdn.rlive.co.il/MFSINERJ5E955ZEB1IVQ92E19@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "ashams",
+      "name": "רדיו אלשמס - راديو الشمس",
+      "page_url": "https://www.rlive.co.il/station/ashams",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/X2SUJQSGMU5FTXEXBX5NXHFJN@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "avtoradio",
+      "name": "רדיו רוסי Avto",
+      "page_url": "https://www.rlive.co.il/station/avtoradio",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://pub0301.101.ru:8443/stream/air/aac/64/100",
+      "logo_url": "https://cdn.rlive.co.il/WQSB7RYYYIFT5CO77PKD6MUW9@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "breslev-carmiel",
+      "name": "רדיו ברסלב כרמיאל",
+      "page_url": "https://www.rlive.co.il/station/breslev-carmiel",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://securestreams6.autopo.st:2294/mp3",
+      "logo_url": "https://cdn.rlive.co.il/XZM5M5VPXRN42YF1ZKT2MJO19@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "80sforever",
+      "name": "רדיו שנות ה-80 (80s Forever)",
+      "page_url": "https://www.rlive.co.il/station/80sforever",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://s2.ssl-stream.com/listen/80s_forever/256.mp3",
+      "logo_url": "https://cdn.rlive.co.il/01JWDRYE01KGFP90J212ZS7KSN@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "101fm",
+      "name": "רדיו ירושלים",
+      "page_url": "https://www.rlive.co.il/station/101fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/K27CMC95ASXHDGYHYVV4PTZGH@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "107-6",
+      "name": "קול פליי",
+      "page_url": "https://www.rlive.co.il/station/107-6",
+      "categories": [
+        "דתי רוחני",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/QY9WERD2D8FF5YTN0TEBEG0FF@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "100fm",
+      "name": "רדיוס 100FM",
+      "page_url": "https://www.rlive.co.il/station/100fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/0XCID0SWGJPL9GVX4APRPZAG6@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "917xfm",
+      "name": "גרמניה 917xfm",
+      "page_url": "https://www.rlive.co.il/station/917xfm",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://mp3channels.rockantenne.hamburg/917xfm",
+      "logo_url": "https://cdn.rlive.co.il/01K5PCQHP4SDKGHKL2XLV6ZOE@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "5radio",
+      "name": "5 רדיו - רדיו ספורט 5",
+      "page_url": "https://www.rlive.co.il/station/5radio",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/E3CP0A3YWDHOL10X96GN13UYH@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "1062fm",
+      "name": "קול האוניברסיטה (הבינתחומי)",
+      "page_url": "https://www.rlive.co.il/station/1062fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://1062onair.runi.ac.il/idc123.mp3",
+      "logo_url": "https://cdn.rlive.co.il/44Z5WG2G8I41CBQZCWS4PY0ON@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "102fm",
+      "name": "רדיו 102 תל אביב",
+      "page_url": "https://www.rlive.co.il/station/102fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://102.livecdn.biz/102fm_aac",
+      "logo_url": "https://cdn.rlive.co.il/01KDJAS3CBTT7EPH4GY79HXQ83@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "88fm",
+      "name": "כאן 88 (רדיו 88)",
+      "page_url": "https://www.rlive.co.il/station/88fm",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/1EOCL2V7NH9CVDLIDM5XNUR5E@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "antenne-salzburg",
+      "name": "אוסטריה Antenne",
+      "page_url": "https://www.rlive.co.il/station/antenne-salzburg",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://live.antenne.at/as",
+      "logo_url": "https://cdn.rlive.co.il/MQJIC06CDATT4P6TKVI08E7ZD@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "abc",
+      "name": "רדיו אוסטרליה ABC",
+      "page_url": "https://www.rlive.co.il/station/abc",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/45VLJLU40424P3VB5FN5B4XKN@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-69fm",
+      "name": "רדיו 69FM",
+      "page_url": "https://www.rlive.co.il/station/69fm",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/69fm",
+      "logo_url": "https://cdn.rlive.co.il/59HLDOXTW8DHAK0SVZLX0E1YB@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "breslev-carmiel",
+      "name": "רדיו ברסלב כרמיאל",
+      "page_url": "https://www.rlive.co.il/station/breslev-carmiel",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://securestreams6.autopo.st:2294/mp3",
+      "logo_url": "https://cdn.rlive.co.il/XZM5M5VPXRN42YF1ZKT2MJO19@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "80sforever",
+      "name": "רדיו שנות ה-80 (80s Forever)",
+      "page_url": "https://www.rlive.co.il/station/80sforever",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://s2.ssl-stream.com/listen/80s_forever/256.mp3",
+      "logo_url": "https://cdn.rlive.co.il/01JWDRYE01KGFP90J212ZS7KSN@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "101fm",
+      "name": "רדיו ירושלים",
+      "page_url": "https://www.rlive.co.il/station/101fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/K27CMC95ASXHDGYHYVV4PTZGH@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "107-6",
+      "name": "קול פליי",
+      "page_url": "https://www.rlive.co.il/station/107-6",
+      "categories": [
+        "דתי רוחני",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/QY9WERD2D8FF5YTN0TEBEG0FF@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "100fm",
+      "name": "רדיוס 100FM",
+      "page_url": "https://www.rlive.co.il/station/100fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/0XCID0SWGJPL9GVX4APRPZAG6@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "917xfm",
+      "name": "גרמניה 917xfm",
+      "page_url": "https://www.rlive.co.il/station/917xfm",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://mp3channels.rockantenne.hamburg/917xfm",
+      "logo_url": "https://cdn.rlive.co.il/01K5PCQHP4SDKGHKL2XLV6ZOE@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "5radio",
+      "name": "5 רדיו - רדיו ספורט 5",
+      "page_url": "https://www.rlive.co.il/station/5radio",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/E3CP0A3YWDHOL10X96GN13UYH@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "1062fm",
+      "name": "קול האוניברסיטה (הבינתחומי)",
+      "page_url": "https://www.rlive.co.il/station/1062fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://1062onair.runi.ac.il/idc123.mp3",
+      "logo_url": "https://cdn.rlive.co.il/44Z5WG2G8I41CBQZCWS4PY0ON@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "dudi-fm",
+      "name": "דודי אף אם",
+      "page_url": "https://www.rlive.co.il/station/dudi-fm",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/dudifm",
+      "logo_url": "https://cdn.rlive.co.il/BMNTLRRMO53O5EE4F08MC6BNV@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "classical-king-fm",
+      "name": "קינג קלאסיק FM",
+      "page_url": "https://www.rlive.co.il/station/classical-king-fm",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://classicalking.streamguys1.com/king-fm-mp3",
+      "logo_url": "https://cdn.rlive.co.il/ZI7WBRJ1QYS946TCTON45C2KE@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "c14news",
+      "name": "ערוץ 14 - אודיו",
+      "page_url": "https://www.rlive.co.il/station/c14news",
+      "categories": [
+        "שונות",
+        "ארצי"
+      ],
+      "stream_url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/01KDX2K39SAGPZA5Q0GY7B61V9@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "bgu-radio",
+      "name": "BGU Radio רדיו אוניברסיטת בן גוריון בנגב",
+      "page_url": "https://www.rlive.co.il/station/bgu-radio",
+      "categories": [
+        "שונות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://bguradio.co/listen/bguradio/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/2IO0I4FWLR1SHK85BNSM9WK9P@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "capital-radio",
+      "name": "רדיו ספרד Capital",
+      "page_url": "https://www.rlive.co.il/station/capital-radio",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://radio.martiproduccions.com/capitalhd",
+      "logo_url": "https://cdn.rlive.co.il/08RVHL3MPAWWN222AL3HU71K5@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "classic-fm",
+      "name": "Classic FM",
+      "page_url": "https://www.rlive.co.il/station/classic-fm",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://media-ice.musicradio.com/ClassicFMMP3",
+      "logo_url": "https://cdn.rlive.co.il/XE0GTU1AIK8HNHLK33H3Y46L6@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "galey-israel",
+      "name": "גלי ישראל",
+      "page_url": "https://www.rlive.co.il/station/galey-israel",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/01JX0S9Z94RW4PBGBJJPV8SRF1@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "hamesh-99-5",
+      "name": "רדיו 99.5 חם אש",
+      "page_url": "https://www.rlive.co.il/station/hamesh-99-5",
+      "categories": [
+        "אזורי",
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://995.livecdn.biz/995fm",
+      "logo_url": "https://cdn.rlive.co.il/WBH9PL0V31IL8CXGMS45HD9YL@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "glgltz",
+      "name": "גלגלצ",
+      "page_url": "https://www.rlive.co.il/station/glgltz",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+      "logo_url": "https://cdn.rlive.co.il/OPQ52YPKRPO0SN3N3M463T4ZY@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "heart-london",
+      "name": "בריטניה לב-לונדון",
+      "page_url": "https://www.rlive.co.il/station/heart-london",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://media-ice.musicradio.com/HeartLondonMP3",
+      "logo_url": "https://cdn.rlive.co.il/EDESZNLK9SHBRG1V92K8PA3MQ@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "israelivoiceradio",
+      "name": "רדיו הקול שלנו",
+      "page_url": "https://www.rlive.co.il/station/israelivoiceradio",
+      "categories": [
+        "שונות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://icecast.live/ivr",
+      "logo_url": "https://cdn.rlive.co.il/GJKYN5O7MQB27N5ETFEKB55PJ@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "harokdim",
+      "name": "ריקודי עם - רדיו הרוקדים",
+      "page_url": "https://www.rlive.co.il/station/harokdim",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/rokdim",
+      "logo_url": "https://cdn.rlive.co.il/PZ3NPQB52HF469UKY20M2RBHD@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "i24news",
+      "name": "רדיו i24News",
+      "page_url": "https://www.rlive.co.il/station/i24news",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://fastly.live.brightcove.com/6.386790215112e+12/eu-central-1/5.377161796001e+12/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/JQYMO1H5HLZ21UJ2OUDWHEWL5@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "halachot",
+      "name": "ברסלב פוריו: הלכות ודף יומי",
+      "page_url": "https://www.rlive.co.il/station/halachot",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/01JHD4SN268PQZCJ851P3X35A1@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "hatahana",
+      "name": "התחנה 101.5",
+      "page_url": "https://www.rlive.co.il/station/hatahana",
+      "categories": [
+        "אזורי",
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/MKY9XI5N65P9Q931I4LHHYIR1@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "glz",
+      "name": "גלי צה\"ל",
+      "page_url": "https://www.rlive.co.il/station/glz",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc\\u0026awEpisodeId=glz",
+      "logo_url": "https://cdn.rlive.co.il/YFK1KYZ1TEHZGFHC3CTOU9A42@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "itch-fm",
+      "name": "רדיו היפ הופ Itch FM",
+      "page_url": "https://www.rlive.co.il/station/itch-fm",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://streaming.radio.co/s264858a04/low",
+      "logo_url": "https://cdn.rlive.co.il/01K8RDWXV36BBC29K29B5QY02K@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "jewish-music-stream",
+      "name": "מוזיקה חסידית-אמריקאית",
+      "page_url": "https://www.rlive.co.il/station/jewish-music-stream",
+      "categories": [
+        "דתי רוחני",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://stream.jewishmusicstream.com:8000/;",
+      "logo_url": "https://cdn.rlive.co.il/PW167EE0USETH5NTOKBNE96AH@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "efi-logue",
+      "name": "רדיו אפי לוג",
+      "page_url": "https://www.rlive.co.il/station/efi-logue",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://liveradio.co.il/radioefilog/;",
+      "logo_url": "https://cdn.rlive.co.il/Y91GWYWYM8XY35GNZ3KHW8MDV@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "carmelfm",
+      "name": "רדיו אלכרמל - راديو الكرمل",
+      "page_url": "https://www.rlive.co.il/station/carmelfm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://liveradio.co.il:1060/;?type=http\\u0026nocache=437",
+      "logo_url": "https://cdn.rlive.co.il/01JHCQQJT1NXD80QPJDX408B3H@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "eilat-beach-radio",
+      "name": "רדיו חוף אילת",
+      "page_url": "https://www.rlive.co.il/station/eilat-beach-radio",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://ec1.yesstreaming.net:3815/stream",
+      "logo_url": "https://cdn.rlive.co.il/2EX2WEK5MN08OYC2ETNEWIW22@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "europa-fm-romania",
+      "name": "רומניה - EuropaFM",
+      "page_url": "https://www.rlive.co.il/station/europa-fm-romania",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+      "logo_url": "https://cdn.rlive.co.il/OLFENNUTH8K3P5T8CLBKUH1AB@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "har-carmel",
+      "name": "רדיו הר הכרמל",
+      "page_url": "https://www.rlive.co.il/station/har-carmel",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://15113.live.streamtheworld.com/SAM04AAC608_SC",
+      "logo_url": "https://cdn.rlive.co.il/01JQ92V2GAXGHFGW6D95YJDA3J@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "franceinfo",
+      "name": "רדיו צרפת אינפו",
+      "page_url": "https://www.rlive.co.il/station/franceinfo",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+      "logo_url": "https://cdn.rlive.co.il/BRLY286X1WO7FBG8OTR1NMIWQ@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "clube-fm",
+      "name": "רדיו ברזיל Clube",
+      "page_url": "https://www.rlive.co.il/station/clube-fm",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://sc4s.cdn.upx.com:8069/stream",
+      "logo_url": "https://cdn.rlive.co.il/124THOY6I0GQ6L86OODJPHZVZ@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "israel-news-talk-radio",
+      "name": "רדיו חדשות ישראל באנגלית",
+      "page_url": "https://www.rlive.co.il/station/israel-news-talk-radio",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://dfw.audio-stream.com/proxy/israelne?mp=/live_live",
+      "logo_url": "https://cdn.rlive.co.il/Y094D36DEMP3KHKQI8EXKRDXR@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "hitsil",
+      "name": "היטס ישראל",
+      "page_url": "https://www.rlive.co.il/station/hitsil",
+      "categories": [
+        "שונות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://icecast.live/hitsil",
+      "logo_url": "https://cdn.rlive.co.il/92Y7FVZKJ40NIX9XWVGNLK8LP@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "glglz-med",
+      "name": "ים תיכוני - גלגלצ",
+      "page_url": "https://www.rlive.co.il/station/glglz-med",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://glzwizzlv.bynetcdn.com/glglz_med_mp3?awCollectionId=misc\\u0026awEpisodeId=glglz_med",
+      "logo_url": "https://cdn.rlive.co.il/SUKBTUBOS22HBDZ62VM5TB7AY@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "joint",
+      "name": "רדיו רגאיי - המחירון",
+      "page_url": "https://www.rlive.co.il/station/joint",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://jointil.com/stream-reggae",
+      "logo_url": "https://cdn.rlive.co.il/5V0PGN5QYK38IR8YAVRM3JGKA@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "joint-radio-beat",
+      "name": "רדיו ביט המחירון",
+      "page_url": "https://www.rlive.co.il/station/joint-radio-beat",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://jointil.com/stream-beat",
+      "logo_url": "https://cdn.rlive.co.il/BSLFVLLN8JB4LNY2WHZ3R8F78@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "idobi",
+      "name": "רדיו רוק idobi",
+      "page_url": "https://www.rlive.co.il/station/idobi",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://idobihowl.idobi.com/;stream.mp3",
+      "logo_url": "https://cdn.rlive.co.il/DFXIZLRODMKI6H5BF4X4KZMF1@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "hevrati",
+      "name": "הרדיו החברתי הראשון",
+      "page_url": "https://www.rlive.co.il/station/hevrati",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/hevrati",
+      "logo_url": "https://cdn.rlive.co.il/01KA8BZJRRSK7F2EN2QXVQSSTP@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "israeliradiomiami",
+      "name": "הרדיו הישראלי מיאמי פלורידה",
+      "page_url": "https://www.rlive.co.il/station/israeliradiomiami",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://a6.asurahosting.com:6650/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/01KE4N243293WZ3PABGF759K15@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "jazz24",
+      "name": "ג'אז24",
+      "page_url": "https://www.rlive.co.il/station/jazz24",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://knkx-live-a.edge.audiocdn.com/6285_128k",
+      "logo_url": "https://cdn.rlive.co.il/IZ8E7S1R1CBS6U79CQ9UPV5RL@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "joint-radio-blues",
+      "name": "רדיו בלוז - המחירון",
+      "page_url": "https://www.rlive.co.il/station/joint-radio-blues",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://jointil.com/stream-blues",
+      "logo_url": "https://cdn.rlive.co.il/S8I8O13HIPHPTVOG295SBGX3O@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "ivri6",
+      "name": "עברי שש",
+      "page_url": "https://www.rlive.co.il/station/ivri6",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://streaming.radio.co/sa06221901/listen",
+      "logo_url": "https://cdn.rlive.co.il/MJ67BQUY3RP1ZQ7DCY85IHMHU@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "jewish-radio-kol-hai",
+      "name": "קול חי מיוזיק - מוזיקה חסידית",
+      "page_url": "https://www.rlive.co.il/station/jewish-radio-kol-hai",
+      "categories": [
+        "דתי רוחני",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://live.kcm.fm/livemusic",
+      "logo_url": "https://cdn.rlive.co.il/PJ06OR3WF8OBQWHUJ1PQU9SUR@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "katzav-mizrahit",
+      "name": "רדיו קצב מזרחית",
+      "page_url": "https://www.rlive.co.il/station/katzav-mizrahit",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il:9040/;?type=mp3\\u0026nocache=3",
+      "logo_url": "https://cdn.rlive.co.il/O1QUR68N0L6VMR708TAA1AXNL@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-arim",
+      "name": "קול ערים",
+      "page_url": "https://www.rlive.co.il/station/kol-arim",
+      "categories": [
+        "מזרחי יווני",
+        "אזורי"
+      ],
+      "stream_url": "https://radio.kolnesher.co.il:7777/;?type=http\\u0026nocache=448",
+      "logo_url": "https://cdn.rlive.co.il/01JX057J28RE8S4G6VJ0NXJNSY@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-barama",
+      "name": "קול ברמה",
+      "page_url": "https://www.rlive.co.il/station/kol-barama",
+      "categories": [
+        "דתי רוחני",
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/AR2TIEW680F2XN4FK78V8KJD7@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-dimona",
+      "name": "קול דימונה",
+      "page_url": "https://www.rlive.co.il/station/kol-dimona",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "http://62.219.136.74/128",
+      "logo_url": "https://cdn.rlive.co.il/Q5W3SY68UK8PNO2DY0K28KC60@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "klub-radio",
+      "name": "רדיו הונגריה - Klub",
+      "page_url": "https://www.rlive.co.il/station/klub-radio",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://hu-stream03.klubradio.hu:8443/bpstream",
+      "logo_url": "https://cdn.rlive.co.il/0VEQNFGIEVYEYPDB2I1DVXURD@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-hanegev",
+      "name": "קול הנגב",
+      "page_url": "https://www.rlive.co.il/station/kol-hanegev",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://stream1.sapir.ac.il:5443/LiveApp/streams/radioStream.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/VVQVKX1XSKBLP331PN1GZ19JX@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-hamusic",
+      "name": "כאן קול המוסיקה",
+      "page_url": "https://www.rlive.co.il/station/kol-hamusic",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/YEK7QS9V00U6CL049V8Y1XDEV@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "ketzev-yamtichoni",
+      "name": "רדיו קצב ים תיכוני",
+      "page_url": "https://www.rlive.co.il/station/ketzev-yamtichoni",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il:1040/;?type=http\\u0026nocache=135533",
+      "logo_url": "https://cdn.rlive.co.il/A74DNTHK2ML37A5VF7HUS3OJW@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-simcha-hits",
+      "name": "קול שמחה - להיטים",
+      "page_url": "https://www.rlive.co.il/station/kol-simcha-hits",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://broadcast.adpronet.com/listen/kshits/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/PZ8F8ZN2P5GWF762QWEJFGHF8@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "knesset-channel",
+      "name": "ערוץ כנסת",
+      "page_url": "https://www.rlive.co.il/station/knesset-channel",
+      "categories": [
+        "שונות",
+        "ארצי"
+      ],
+      "stream_url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/JL80J86DTVVJ57EL58TA37NP9@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kahol-yavan",
+      "name": "רדיו כחול יוון",
+      "page_url": "https://www.rlive.co.il/station/kahol-yavan",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://icecast.live/livegreece_aac",
+      "logo_url": "https://cdn.rlive.co.il/TQPC11E9LZAHABUFYCWM72AZH@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kankids",
+      "name": "רדיו כאן חינוכית - רדיו ילדים",
+      "page_url": "https://www.rlive.co.il/station/kankids",
+      "categories": [
+        "ארצי",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/radio_kan_hinuchit/live.livx/playlist.m3u8?renditions",
+      "logo_url": "https://cdn.rlive.co.il/MP0WUEHFP1FBBFKHK7BINV21J@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-ramah",
+      "name": "רדיו קול רמה",
+      "page_url": "https://www.rlive.co.il/station/kol-ramah",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://icecast.live/kolramah_aac",
+      "logo_url": "https://cdn.rlive.co.il/5CQXXQ0J5897ZRTM47O81PLJV@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-galim",
+      "name": "קול גלים",
+      "page_url": "https://www.rlive.co.il/station/kol-galim",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/galimlive",
+      "logo_url": "https://cdn.rlive.co.il/9CZWB80A7QXR17Q6UMFYGZBLM@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-halacha",
+      "name": "קול ההלכה",
+      "page_url": "https://www.rlive.co.il/station/kol-halacha",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://broadcast.adpronet.com/radio/8050/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/0PQONM1LWHXJQU6DJ4EGDOV7L@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-rishonim",
+      "name": "קול ראשונים",
+      "page_url": "https://www.rlive.co.il/station/kol-rishonim",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/1062",
+      "logo_url": "https://cdn.rlive.co.il/HTL8V6UFQWYH7GE2F1MHL2F4C@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-ness-ziona",
+      "name": "קול נס ציונה",
+      "page_url": "https://www.rlive.co.il/station/kol-ness-ziona",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "http://kolness.livecast.co.il/liveness",
+      "logo_url": "https://cdn.rlive.co.il/TIFCZOSD23EA7AMU8CF2DAYV6@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-simcha-light",
+      "name": "קול שמחה - שקטים",
+      "page_url": "https://www.rlive.co.il/station/kol-simcha-light",
+      "categories": [
+        "דתי רוחני",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://broadcast.adpronet.com/listen/kols_light/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/0O9XZRXSRWU8GEUPH5OAH56R8@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-ramla",
+      "name": "קול רמלה",
+      "page_url": "https://www.rlive.co.il/station/kol-ramla",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://liveradio.co.il:7000/;?type=http\\u0026nocache=35",
+      "logo_url": "https://cdn.rlive.co.il/G70P20872TZYQRVUQ5NR5128O@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-california",
+      "name": "קול קליפורניה",
+      "page_url": "https://www.rlive.co.il/station/kol-california",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://15113.live.streamtheworld.com/SAM02AAC155_SC",
+      "logo_url": "https://cdn.rlive.co.il/0M8DVNTU1ZV1U9AAC9ZBC2ML7@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-hashfela",
+      "name": "קול השפלה - רחובות",
+      "page_url": "https://www.rlive.co.il/station/kol-hashfela",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://radio.streamgates.net/stream/1036kh",
+      "logo_url": "https://cdn.rlive.co.il/HVBT67NQOO9FP7IFVH4AGGCWA@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-hagolan",
+      "name": "קול הגולן",
+      "page_url": "https://www.rlive.co.il/station/kol-hagolan",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://liveradio.co.il:9010/;?type=http\\u0026nocache=54",
+      "logo_url": "https://cdn.rlive.co.il/T2JC2CCFSBMPIX5QCHBK126EU@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-hayam-haadom-102fm",
+      "name": "רדיו אילת 102FM",
+      "page_url": "https://www.rlive.co.il/station/kol-hayam-haadom-102fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://eilat.livecdn.biz/eilat102",
+      "logo_url": "https://cdn.rlive.co.il/31LM500DP9LLECW3HQ904GRTL@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kan-11",
+      "name": "כאן 11 - אודיו",
+      "page_url": "https://www.rlive.co.il/station/kan-11",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/E2KIY0MDIQ0KQKST45NLET486@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-hayam-hatichon",
+      "name": "קול הים התיכון",
+      "page_url": "https://www.rlive.co.il/station/kol-hayam-hatichon",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "http://www.rs.mizrahit.fm:7777/;stream/1",
+      "logo_url": "https://cdn.rlive.co.il/SBWD302YQPTN8A43HCXKUD0BH@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-ramat-hasharon-106fm",
+      "name": "קול רמת השרון",
+      "page_url": "https://www.rlive.co.il/station/kol-ramat-hasharon-106fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://radio.streamgates.net/stream/1036",
+      "logo_url": "https://cdn.rlive.co.il/08IVSFM2R0CPQQ2NTKI2RHALZ@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kol-israel-in-arabic",
+      "name": "כאן מכאן (راديو مكان)",
+      "page_url": "https://www.rlive.co.il/station/kol-israel-in-arabic",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MAKAN.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/SB1E0PMNXIEJ7I9N5ELBQW381@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "lux-fm",
+      "name": "אוקראינה - לוקס FM",
+      "page_url": "https://www.rlive.co.il/station/lux-fm",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/chunklist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/KVGZG6DMQ4MDJ17QW4L4EVSPY@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "musayof",
+      "name": "מוסיוף",
+      "page_url": "https://www.rlive.co.il/station/musayof",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/8JMRSUSJH41QK0F5HIOCOSS7A@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "love-songs-radio",
+      "name": "רדיו שירי אהבה",
+      "page_url": "https://www.rlive.co.il/station/love-songs-radio",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://liveradio.co.il/radiolove",
+      "logo_url": "https://cdn.rlive.co.il/SZF3OBVGVUVW7LG7WOM69ANY7@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "malchut-pe-mehadrin-radio",
+      "name": "מלכות פה - רדיו למהדרין",
+      "page_url": "https://www.rlive.co.il/station/malchut-pe-mehadrin-radio",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://streams.radio.co/sb47021c06/listen",
+      "logo_url": "https://cdn.rlive.co.il/S1YWU0JV6IZ0BSMLUCIF3QUJL@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kolhalev",
+      "name": "קול הלב",
+      "page_url": "https://www.rlive.co.il/station/kolhalev",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://us1.streamingpulse.com/ssl/KolHalev",
+      "logo_url": "https://cdn.rlive.co.il/09L4M8X5T58RT0M9EEEZ6MXEF@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "metsiot",
+      "name": "נוסטלגיה לועזית - רדיו מציאות",
+      "page_url": "https://www.rlive.co.il/station/metsiot",
+      "categories": [
+        "שונות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://carina.streamerr.co/stream/metsiot1",
+      "logo_url": "https://cdn.rlive.co.il/H4EB3RW2U2W114R78M49MCH8U@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "neurim-fm",
+      "name": "על הגל - נעורים",
+      "page_url": "https://www.rlive.co.il/station/neurim-fm",
+      "categories": [
+        "שונות",
+        "אזורי"
+      ],
+      "stream_url": "https://icecast.live/hls/neurimfm/live.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/OWJVAVF7ZG4ZCL0TSCDGKPJIA@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "mc-doualiya",
+      "name": "רדיו צרפת בערבית מונטה-קרלו",
+      "page_url": "https://www.rlive.co.il/station/mc-doualiya",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+      "logo_url": "https://cdn.rlive.co.il/79ZNZAQO4HKBG5PAVGVNPWVH9@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "nas",
+      "name": "רדיו נאס",
+      "page_url": "https://www.rlive.co.il/station/nas",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/W31N1BFMV3KE8K92BS5J6JDTB@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "kzradio",
+      "name": "רדיו הקצה",
+      "page_url": "https://www.rlive.co.il/station/kzradio",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/FSU8OH34DTKUSYIDLDT21V68Z@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "livetorani",
+      "name": "בשיעור חי",
+      "page_url": "https://www.rlive.co.il/station/livetorani",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://media2.93fm.co.il/livetorani",
+      "logo_url": "https://cdn.rlive.co.il/U2FUUUTJ3S3OK8XY34K8DMQH8@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "n12",
+      "name": "מבזק השעה N12",
+      "page_url": "https://www.rlive.co.il/station/n12",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "http://ff_engine.streamgates.net/Ch10News.mp3",
+      "logo_url": "https://cdn.rlive.co.il/IN6BIO75F61GQCERXH0MIMSUP@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "kolhaemet",
+      "name": "רדיו כל האמת",
+      "page_url": "https://www.rlive.co.il/station/kolhaemet",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://stream.kolhaemet.co.il/live",
+      "logo_url": "https://cdn.rlive.co.il/CRX8D6HLIBL5I1NZGRT8WN5A9@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "los40",
+      "name": "קולומביה - לוס40",
+      "page_url": "https://www.rlive.co.il/station/los40",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://27403.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac",
+      "logo_url": "https://cdn.rlive.co.il/G74M15XJGQ4JS8MOW42L26G7H@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "noshmim-mizrahit",
+      "name": "רדיו נושמים מזרחית",
+      "page_url": "https://www.rlive.co.il/station/noshmim-mizrahit",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://rs.mizrahit.fm:7777/;stream",
+      "logo_url": "https://cdn.rlive.co.il/IPOXDD1LUW38URM2EEKQHAEH5@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "pervoe-radio",
+      "name": "רדיו פרוויה (Первое радио)",
+      "page_url": "https://www.rlive.co.il/station/pervoe-radio",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/YF46NRDYRMI26T27HP3ZKHGXK@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-99fm",
+      "name": "אקו 99fm",
+      "page_url": "https://www.rlive.co.il/station/radio-99fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://99.mediacast.co.il/99fm_aac",
+      "logo_url": "https://cdn.rlive.co.il/VJULPMZIBILYCPTFYWMV9VJAU@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "nostalgia-963fm",
+      "name": "רדיוס נוסטלגי 96.3fm",
+      "page_url": "https://www.rlive.co.il/station/nostalgia-963fm",
+      "categories": [
+        "אזורי",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/playlist.m3u8?provider=rlive",
+      "logo_url": "https://cdn.rlive.co.il/XUOIZRROA46LNR2O93I378B5P@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-dikaun-mizrahi",
+      "name": "רדיו שירי דיכאון ונשמה",
+      "page_url": "https://www.rlive.co.il/station/radio-dikaun-mizrahi",
+      "categories": [
+        "מזרחי יווני",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://diki.mediacast.co.il/diki",
+      "logo_url": "https://cdn.rlive.co.il/IXFGZNJOBZHRUWRPTOFY3E2SL@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-538",
+      "name": "רדיו 538 להיטים",
+      "page_url": "https://www.rlive.co.il/station/radio-538",
+      "categories": [
+        "לפי מדינות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://27793.live.streamtheworld.com/RADIO538.mp3",
+      "logo_url": "https://cdn.rlive.co.il/TNDWYRYQY1LDNYDKEM91HFY7C@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-darom-9697fm",
+      "name": "רדיו דרום",
+      "page_url": "https://www.rlive.co.il/station/radio-darom-9697fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/01KE7BCWVT026PMY09T28M79JB@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-beat",
+      "name": "רדיו ביט",
+      "page_url": "https://www.rlive.co.il/station/radio-beat",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "http://live.radio-beat.com/stream1",
+      "logo_url": "https://cdn.rlive.co.il/EPYJY69P4WZL7ZSQC2PUQNGI4@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-azori",
+      "name": "רדיו אזורי",
+      "page_url": "https://www.rlive.co.il/station/radio-azori",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/69fm/azori",
+      "logo_url": "https://cdn.rlive.co.il/381T9FN5K61HDLUG0L03QC8QB@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-darom-1015fm",
+      "name": "רדיו דרום 101.5",
+      "page_url": "https://www.rlive.co.il/station/radio-darom-1015fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/01KE7BPNMX2NFZVMYMWPE5N85D@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "open-university-radio",
+      "name": "רדיו הפתוחה",
+      "page_url": "https://www.rlive.co.il/station/open-university-radio",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://streaming.shoutcast.com/the-open-radio",
+      "logo_url": "https://cdn.rlive.co.il/2W353BJAKSZHMVV6FAPA8J5BS@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-2000",
+      "name": "ערוץ 2000",
+      "page_url": "https://www.rlive.co.il/station/radio-2000",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/MKQ3XATCSZZTBDPKKFQPBX36B@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-dante",
+      "name": "רדיו דנטה",
+      "page_url": "https://www.rlive.co.il/station/radio-dante",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://hoth.alonhosting.com/8282",
+      "logo_url": "https://cdn.rlive.co.il/VEAP726S2BEEOCBRA3GOU3VGN@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-hidabroot",
+      "name": "הידברות",
+      "page_url": "https://www.rlive.co.il/station/radio-hidabroot",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/3L1SJFS6A5NUE6UY7EJIY7BL1@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-haifa-107-5fm",
+      "name": "רדיו חיפה",
+      "page_url": "https://www.rlive.co.il/station/radio-haifa-107-5fm",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://1075.livecdn.biz/radiohaifa",
+      "logo_url": "https://cdn.rlive.co.il/01K1667RMTN5B2HT0TH08VZK4N@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-eshel",
+      "name": "כאן אשל הנשיא",
+      "page_url": "https://www.rlive.co.il/station/radio-eshel",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "http://stream.eshelnet.com/xstream",
+      "logo_url": "https://cdn.rlive.co.il/KP7EKSGIH0XM6A64G5P8UZGYR@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-hamizrah",
+      "name": "רדיו המזרח",
+      "page_url": "https://www.rlive.co.il/station/radio-hamizrah",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il:9089/stream",
+      "logo_url": "https://cdn.rlive.co.il/AWB6IWAXVU99TGHW4AHPJIC6F@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-idan",
+      "name": "רדיו נטו",
+      "page_url": "https://www.rlive.co.il/station/radio-idan",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/radioneto1",
+      "logo_url": "https://cdn.rlive.co.il/RMZBBX631TV7VSZQF710M87LZ@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-france-international",
+      "name": "רדיו צרפת RFI",
+      "page_url": "https://www.rlive.co.il/station/radio-france-international",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+      "logo_url": "https://cdn.rlive.co.il/SJO2CJP4QMLMOAG2GPU54ZIUL@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-eol",
+      "name": "רדיו מהות החיים",
+      "page_url": "https://www.rlive.co.il/station/radio-eol",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/BV7TWAIQYPMQUMRWYJGM7U4EK@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-breslev",
+      "name": "רדיו ברסלב אהוד שדה",
+      "page_url": "https://www.rlive.co.il/station/radio-breslev",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://stream.radiobreslev.co.il/live",
+      "logo_url": "https://cdn.rlive.co.il/XRMBGSYEJVLA2RUA3BMSPXMQT@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "lolfmradio",
+      "name": "צחוק FM (בהרצה)",
+      "page_url": "https://www.rlive.co.il/station/lolfmradio",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/69fm/lolfm",
+      "logo_url": "https://cdn.rlive.co.il/1RY8N1SWUKWM3HV3ZP7FLYEO2@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "levisrael",
+      "name": "לב ישראל",
+      "page_url": "https://www.rlive.co.il/station/levisrael",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://edge.mixlr.com/channel/fldua",
+      "logo_url": "https://cdn.rlive.co.il/GS0RUARE7L8559BMB8RGOSBZA@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "kolyaldeyisrael",
+      "name": "רדיו קול ילדי ישראל",
+      "page_url": "https://www.rlive.co.il/station/kolyaldeyisrael",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://liveradio.co.il:9050/;?type=http\\u0026nocache=16",
+      "logo_url": "https://cdn.rlive.co.il/01JH834AD5QWJAHSEQG4DDB292@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "metsiot-israeli",
+      "name": "נוסטלגיה עברית - רדיו מציאות",
+      "page_url": "https://www.rlive.co.il/station/metsiot-israeli",
+      "categories": [
+        "שונות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://carina.streamerr.co/stream/metsiot2",
+      "logo_url": "https://cdn.rlive.co.il/WNQ1YNKMI3J3DP6NC15AQ1E6B@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-dvash-yevani",
+      "name": "רדיו דבש יווני",
+      "page_url": "https://www.rlive.co.il/station/radio-dvash-yevani",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il:9060/stream",
+      "logo_url": "https://cdn.rlive.co.il/066QTNP0RQQVARFSSZLXZXO7E@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-angelika",
+      "name": "רדיו אנג'ליקה",
+      "page_url": "https://www.rlive.co.il/station/radio-angelika",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/angelika",
+      "logo_url": "https://cdn.rlive.co.il/01KGYEJB86EXW6S7SEYXPWSQPP@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-indie-israel",
+      "name": "רדיו אינדי",
+      "page_url": "https://www.rlive.co.il/station/radio-indie-israel",
+      "categories": [
+        "שונות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://a3.asurahosting.com/listen/%D7%A8%D7%93%D7%99%D7%95_%D7%90%D7%99%D7%A0%D7%93%D7%99/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/3L3UGSOQVR5GZ6A3N1UG8RFGD@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "martit",
+      "name": "מרטיט מיתר בלב",
+      "page_url": "https://www.rlive.co.il/station/martit",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il:9030/stream",
+      "logo_url": "https://cdn.rlive.co.il/QFGT2RDPAXIQUHIUC8V6Z9P7V@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "musichevrati",
+      "name": "הבית המזרחי - חוזרים הביתה",
+      "page_url": "https://www.rlive.co.il/station/musichevrati",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/hevralink",
+      "logo_url": "https://cdn.rlive.co.il/01KEXVTAHXX645GMSMNNTJZHS6@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-b-b-vostok",
+      "name": "רדיו בוכרי - ב.ב. ווסטוק",
+      "page_url": "https://www.rlive.co.il/station/radio-b-b-vostok",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://liveradio.co.il/BBVostok",
+      "logo_url": "https://cdn.rlive.co.il/KFFU87E22E3K7FT6JHZAW10NK@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-breslev-kol-hanahal",
+      "name": "ברסלב קול הנחל",
+      "page_url": "https://www.rlive.co.il/station/radio-breslev-kol-hanahal",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://cast4.asurahosting.com/proxy/yaniv/stream",
+      "logo_url": "https://cdn.rlive.co.il/89LPALY5JDRT5K6YHBAGYVVPB@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-idan-dati",
+      "name": "עידן התשובה",
+      "page_url": "https://www.rlive.co.il/station/radio-idan-dati",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/radioneto2",
+      "logo_url": "https://cdn.rlive.co.il/RH5RY2T2VIDLYIJM3C9ZQ59ZE@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-kahol-lavan",
+      "name": "רדיו כחול לבן",
+      "page_url": "https://www.rlive.co.il/station/radio-kahol-lavan",
+      "categories": [
+        "שונות",
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://radiokahollavan.com/stream",
+      "logo_url": "https://cdn.rlive.co.il/VIIACHOJX815Z355CD8S44NO0@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-kol-hatzafon",
+      "name": "קול הצפון",
+      "page_url": "https://www.rlive.co.il/station/radio-kol-hatzafon",
+      "categories": [
+        "אזורי",
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/khz",
+      "logo_url": "https://cdn.rlive.co.il/3P8YG0X3H6GOGHJMB21Y5CF46@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-mevaser-tov",
+      "name": "מבשר טוב 770",
+      "page_url": "https://www.rlive.co.il/station/radio-mevaser-tov",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://liveradio.co.il/chasidi",
+      "logo_url": "https://cdn.rlive.co.il/WFCTGQE6SI8LDYNBNKLU9GZFD@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-nova",
+      "name": "פינלנד Nova",
+      "page_url": "https://www.rlive.co.il/station/radio-nova",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://stream.bauermedia.fi/radionova/radionova_64.aac",
+      "logo_url": "https://cdn.rlive.co.il/3UCVC62F86LFVC0AIFW9LD489@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-mozart",
+      "name": "רדיו מוצרט Klassik",
+      "page_url": "https://www.rlive.co.il/station/radio-mozart",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://klassikr.streamabc.net/klr-krdnational-aac-128-3888428",
+      "logo_url": "https://cdn.rlive.co.il/01JW6ZNB5MWH4SEVZE42W8JGYV@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-mania",
+      "name": "רדיו מאניה",
+      "page_url": "https://www.rlive.co.il/station/radio-mania",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://cast.ereznet.co.il/radio/8030/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/79ZSQXRB8MC7CXB0J10VTABOS@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-savta",
+      "name": "רדיו סבתא",
+      "page_url": "https://www.rlive.co.il/station/radio-savta",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://broadcast.radiosavta.com:8000/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/S2M90SJB6MEFIUBP6ZHZL8CCP@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-ran",
+      "name": "רדיו פרסי רדיו רן",
+      "page_url": "https://www.rlive.co.il/station/radio-ran",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/YBR3K1LZ81BQYLTKRER8BMKHU@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-kesem",
+      "name": "רדיו קסם 106FM",
+      "page_url": "https://www.rlive.co.il/station/radio-kesem",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cdn.cybercdn.live/Kessem_Radio/live/icecast.audio",
+      "logo_url": "https://cdn.rlive.co.il/U9O576FII5FP31BT47753XNN6@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-sahar",
+      "name": "רדיו סהר",
+      "page_url": "https://www.rlive.co.il/station/radio-sahar",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/sahar",
+      "logo_url": "https://cdn.rlive.co.il/Q7VXBWQSN7F3JKGL6GBXQY5C2@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-krayot-fm",
+      "name": "רדיו קריות FM",
+      "page_url": "https://www.rlive.co.il/station/radio-krayot-fm",
+      "categories": [
+        "אזורי",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/krayotfm",
+      "logo_url": "https://cdn.rlive.co.il/SQRUYBDGQNSRQBY2TN4QMPHBC@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-kol-simcha",
+      "name": "קול שמחה",
+      "page_url": "https://www.rlive.co.il/station/radio-kol-simcha",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://broadcast.adpronet.com/radio/8000/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/YPRRYKILUPMM6ME4ATT4EY99Z@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-inn-7",
+      "name": "רדיו ערוץ 7",
+      "page_url": "https://www.rlive.co.il/station/radio-inn-7",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://radiolive.a7.org/a7live",
+      "logo_url": "https://cdn.rlive.co.il/1PHV5SAXLFSFVS4FEJNIEWXHL@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-nahariya",
+      "name": "רדיו נהריה - Радио Наария",
+      "page_url": "https://www.rlive.co.il/station/radio-nahariya",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://cast.radionahariya.com:8443/main.mp3",
+      "logo_url": "https://cdn.rlive.co.il/XPXTIU767CPPPI11YGGZHQ1LE@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-kol-hakinneret",
+      "name": "קול הכנרת",
+      "page_url": "https://www.rlive.co.il/station/radio-kol-hakinneret",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://radio.streamgates.net/stream/kinneret",
+      "logo_url": "https://cdn.rlive.co.il/ZPS8CYZG2N400H57WS8DAO6NX@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-nina",
+      "name": "רדיו נינה",
+      "page_url": "https://www.rlive.co.il/station/radio-nina",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://loki.mental-media.gr:8014/stream",
+      "logo_url": "https://cdn.rlive.co.il/1YX404DDRIULQOKZHQXB7A0GZ@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-shabazi",
+      "name": "רדיו שבזי - נוסח תימן",
+      "page_url": "https://www.rlive.co.il/station/radio-shabazi",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://node-29.zeno.fm/fdvcya6ewqruv",
+      "logo_url": "https://cdn.rlive.co.il/SQKAYROCUAU7K4MZYEKEJ7HFR@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio5",
+      "name": "רדיו 5",
+      "page_url": "https://www.rlive.co.il/station/radio5",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il:8070/stream",
+      "logo_url": "https://cdn.rlive.co.il/01KE7C0GNH9WM4HK453TWPECWT@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "rai-radio-1",
+      "name": "איטליה - Rai Radio 1",
+      "page_url": "https://www.rlive.co.il/station/rai-radio-1",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/radio1est_256/chunklist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/5MMBB9CTC5QFYAF4KT5J53HIA@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-one",
+      "name": "רדיו one",
+      "page_url": "https://www.rlive.co.il/station/radio-one",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://sweb.co.il:8036/stream",
+      "logo_url": "https://cdn.rlive.co.il/4V6IRD7F17HGI5O7Q3KEFD8K4@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-menta",
+      "name": "רדיו מנטה",
+      "page_url": "https://www.rlive.co.il/station/radio-menta",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://menta-fm.co.il/radio/",
+      "logo_url": "https://cdn.rlive.co.il/BW067A4S6IK6HTU6UD3UPR7ID@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-kol-netanya",
+      "name": "קול נתניה",
+      "page_url": "https://www.rlive.co.il/station/radio-kol-netanya",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://icecast.live/hls/kol_netanya/rkn_hls.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/0O60YJXL52GT2HJDKUWB66BSL@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-sol",
+      "name": "רדיו סול",
+      "page_url": "https://www.rlive.co.il/station/radio-sol",
+      "categories": [
+        "שונות",
+        "אזורי"
+      ],
+      "stream_url": "https://radio.streamgates.net/stream/sol",
+      "logo_url": "https://cdn.rlive.co.il/01KE4KSW7DYB629HYWKW0GC43T@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio106",
+      "name": "רדיו קול אחר",
+      "page_url": "https://www.rlive.co.il/station/radio106",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://ariel.icecast.live/hls/1/stream.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/O0KC4OM07G3ZD9XZB0WHCS6AN@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "reka",
+      "name": "כאן רקע REKA",
+      "page_url": "https://www.rlive.co.il/station/reka",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/3R2X8LNY02RNO7160SPOKBUZV@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "reshet-gimmel",
+      "name": "כאן גימל (רשת ג)",
+      "page_url": "https://www.rlive.co.il/station/reshet-gimmel",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/7UYWVYTP1OMQXSDXMK81X4HO9@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-veronika",
+      "name": "Radio Veronika - בולגריה",
+      "page_url": "https://www.rlive.co.il/station/radio-veronika",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://22653.live.streamtheworld.com/RADIO_VERONIKAAAC_L.aac",
+      "logo_url": "https://cdn.rlive.co.il/01K86DD0S24AD8QTXTMHZRSY5V@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-kol-izrael",
+      "name": "קול יזרעאל",
+      "page_url": "https://www.rlive.co.il/station/radio-kol-izrael",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://radio.streamgates.net/stream/yezreel",
+      "logo_url": "https://cdn.rlive.co.il/LUCQ4SGN5QVGYZG1R7UOAM93R@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "radiofix2525",
+      "name": "רדיו פיקס 2525",
+      "page_url": "https://www.rlive.co.il/station/radiofix2525",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://stream3.rcast.net/72648",
+      "logo_url": "https://cdn.rlive.co.il/3IPEZ1FSFD527V8SDJ4RI2MDV@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-yasoo",
+      "name": "רדיו יאסו",
+      "page_url": "https://www.rlive.co.il/station/radio-yasoo",
+      "categories": [
+        "מזרחי יווני"
+      ],
+      "stream_url": "https://liveradio.co.il/radioyasoo",
+      "logo_url": "https://cdn.rlive.co.il/X817C9MVWEUSDVIR5CO448KEG@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "radio-sawa",
+      "name": "רדיו סאווא راديو سوا",
+      "page_url": "https://www.rlive.co.il/station/radio-sawa",
+      "categories": [
+        "אזורי"
+      ],
+      "stream_url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/JOSRJ19XZ2MGJQZ8YH2AYA40Z@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "reshet-moreshet",
+      "name": "כאן מורשת",
+      "page_url": "https://www.rlive.co.il/station/reshet-moreshet",
+      "categories": [
+        "ארצי",
+        "דתי רוחני"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/SPG1KPG6QN0XMB9YNRTDYA3NY@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "reshet-bet",
+      "name": "כאן ב' (רשת ב) ",
+      "page_url": "https://www.rlive.co.il/station/reshet-bet",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/01KJQRYEBPDQNP8W2Y1938QTH0@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "reshet-aleph",
+      "name": "כאן תרבות (רשת א)",
+      "page_url": "https://www.rlive.co.il/station/reshet-aleph",
+      "categories": [
+        "ארצי"
+      ],
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=rlive",
+      "logo_url": "https://cdn.rlive.co.il/FW9ZX8YJIXMACQB6XJERA4UBM@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "radioplus",
+      "name": "רדיו פלוס",
+      "page_url": "https://www.rlive.co.il/station/radioplus",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://s3.yesstreaming.net:17049/stream",
+      "logo_url": "https://cdn.rlive.co.il/YPXMA31A9E75WQB03LQFD1TUN@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "salsa-tel-aviv",
+      "name": "רדיו סלסה תל אביב",
+      "page_url": "https://www.rlive.co.il/station/salsa-tel-aviv",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://liveradio.co.il/salsa",
+      "logo_url": "https://cdn.rlive.co.il/AJV9XNNE94VF145NI0IJFCLRY@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "zerock",
+      "name": "זה רוק",
+      "page_url": "https://www.rlive.co.il/station/zerock",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://icecast.live/zerock",
+      "logo_url": "https://cdn.rlive.co.il/0NGCGB0A6G94678XUNB0SVZBA@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "toker-fm",
+      "name": "הרדיו של מנחם טוקר",
+      "page_url": "https://www.rlive.co.il/station/toker-fm",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/UELAKGHAKA3HJC7T7R8Y82H4H@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "streetstune-radio",
+      "name": "Streetstune - אלקטרונית",
+      "page_url": "https://www.rlive.co.il/station/streetstune-radio",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://live.ecast.co.il/stream/streetstune",
+      "logo_url": "https://cdn.rlive.co.il/L2ZA9KOLX4AKNNG90KKSTH875@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "shorts",
+      "name": "ברסלב פוריו: קצר וקולע",
+      "page_url": "https://www.rlive.co.il/station/shorts",
+      "categories": [
+        "דתי רוחני"
+      ],
+      "stream_url": "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3",
+      "logo_url": "https://cdn.rlive.co.il/01JHD5DHJMEDKC451AJ1G756M9@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "zlilei-hakrayot",
+      "name": "צלילי הקריות",
+      "page_url": "https://www.rlive.co.il/station/zlilei-hakrayot",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://sweb.co.il:8048/;stream.mp3",
+      "logo_url": "https://cdn.rlive.co.il/YQ46EJ1GVBZLOA7F8Y2ML0NKG@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "voice-of-america",
+      "name": "קול אמריקה",
+      "page_url": "https://www.rlive.co.il/station/voice-of-america",
+      "categories": [
+        "לפי מדינות"
+      ],
+      "stream_url": "https://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist352R.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/QUZC3HGOEPOGN8GCYB1KC45RW@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "teder",
+      "name": "רדיו תדר FM",
+      "page_url": "https://www.rlive.co.il/station/teder",
+      "categories": [
+        "שונות"
+      ],
+      "stream_url": "https://radio.streamgates.net/stream/teder",
+      "logo_url": "https://cdn.rlive.co.il/16GLLT44H25UX49IO43R2607W@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "the-best",
+      "name": "MUZIKA 106.4 FM - Лучшее радио",
+      "page_url": "https://www.rlive.co.il/station/the-best",
+      "categories": [
+        "אזורי",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
+      "logo_url": "https://cdn.rlive.co.il/01K071JA3FNF3ZYDX1RG48D7ZE@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "smooth-70s",
+      "name": "שנות ה-70 - Smooth 70s",
+      "page_url": "https://www.rlive.co.il/station/smooth-70s",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://ice3.securenetsystems.net/S70S",
+      "logo_url": "https://cdn.rlive.co.il/FWOVAVBQCJ5G127R0V6896M2A@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "sumba887",
+      "name": "סומבה 88.7 - ארגנטינה",
+      "page_url": "https://www.rlive.co.il/station/sumba887",
+      "categories": [
+        "לפי מדינות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://masservidor.net:7182/;",
+      "logo_url": "https://cdn.rlive.co.il/GBFEU9HUKA0RV8C7WPN35KHJV@tb.jpg",
+      "source": "rlive"
+    },
+    {
+      "id": "salseo-radio",
+      "name": "רדיו סלסה - Salseo",
+      "page_url": "https://www.rlive.co.il/station/salseo-radio",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://listen.radioking.com/radio/399811/stream/452110",
+      "logo_url": "https://cdn.rlive.co.il/L3P11I6178S4W7LK0PVM443UO@tb.png",
+      "source": "rlive"
+    },
+    {
+      "id": "up2dance",
+      "name": "רדיו Up2Dance",
+      "page_url": "https://www.rlive.co.il/station/up2dance",
+      "categories": [
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://icecast.live/up2dance",
+      "logo_url": "https://cdn.rlive.co.il/VPCVA8R1YJ9X4THLQV8NHA89F@tb.jpeg",
+      "source": "rlive"
+    },
+    {
+      "id": "teen-buzz",
+      "name": "לימוד אנגלית - טין באזז",
+      "page_url": "https://www.rlive.co.il/station/teen-buzz",
+      "categories": [
+        "שונות",
+        "לפי סגנונות"
+      ],
+      "stream_url": "https://uksoutha.streaming.broadcast.radio/teenbuzzradio",
+      "logo_url": "https://cdn.rlive.co.il/2NJF5XP5BMNAQEKW3KHKEPH1S@tb.png",
+      "source": "rlive"
+    }
+  ],
+  "kcm_channels": [
+    {
+      "id": "kcm-2",
+      "name": "נכנסים לקצב",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/2/hls.m3u8",
+      "description": "המלחין והיוצר אלי קליין מגיש ערוץ מוזיקלי מקפיץ, שכולו קצב ומצב רוח",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-2.jpg"
+    },
+    {
+      "id": "kcm-10",
+      "name": "נעימות",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/10/hls.m3u8",
+      "description": "אוהבים נעימות? זהו הערוץ עבורכם. מוזיקה אינסטרומנטלית מכל הסגנונות...",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-10.jpg"
+    },
+    {
+      "id": "kcm-106",
+      "name": "סימילאק - מוסיקה שקטה ללילה רגוע",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/14/hls.m3u8",
+      "description": "מוזיקה ווקאלית  (ללא כלי נגינה) לימי ספירת העומר",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-106.jpg"
+    },
+    {
+      "id": "kcm-11",
+      "name": "בין הערביים",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/11/hls.m3u8",
+      "description": "לשעות אחר הצהריים, לבוקר חורפי, או לכל זמן: ערוץ המוזיקה השקטה שתכניס אתכם לאווירה שלווה ורגועה..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-11.jpg"
+    },
+    {
+      "id": "kcm-112",
+      "name": "אברימי רוט",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/100/hls.m3u8",
+      "description": "מיטב השירים ומחרוזות השמחה לימי החנוכה",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-112.jpg"
+    },
+    {
+      "id": "kcm-113",
+      "name": "ממתק לשבת",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/02/hls.m3u8",
+      "description": "המלחין והיוצר אלי קליין, מגדולי יוצרי הלהיטים בשנים האחרונות, מגיש לכם ערוץ מוזיקלי מקפיץ, שכולו קצב ומצב רוח..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-113.jpg"
+    },
+    {
+      "id": "kcm-12",
+      "name": "חזנות",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/12/hls.m3u8",
+      "description": "יצירות החזנות הגדולות והבלתי נשכחות מכל הזמנים וממיטב החזנים",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-12.jpg"
+    },
+    {
+      "id": "kcm-13",
+      "name": "פיוטים",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/13/hls.m3u8",
+      "description": "הפיוטים האהובים מבית הכנסת ומבית אבא, בביצועם של גדולי החזנים והפייטנים. בעריכת שמואל חדד",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-13.jpg"
+    },
+    {
+      "id": "kcm-15",
+      "name": "אברהם פריד",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/15/hls.m3u8",
+      "description": "ערוץ משירי אברהם פריד, הזמר שמזוהה יותר מכל עם מוזיקה חסידית איכותית מכל הגוונים והסגנונות... - קרדיט צילום: אוהד קב",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-15.jpg"
+    },
+    {
+      "id": "kcm-16",
+      "name": "מרדכי בן דוד",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/16/hls.m3u8",
+      "description": "מרדכי בן דוד, האיש שהמציא את המוזיקה החסידית, בערוץ מיוחד עם שיריו הגדולים והבלתי נשכחים..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-16.jpg"
+    },
+    {
+      "id": "kcm-17",
+      "name": "תענוג לשבת",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/17/hls.m3u8",
+      "description": "'טועמיה חיים זכו'.. למי שרוצה להרגיש ולטעום מאווירת קדושת השבת, בעריכת מני גירא שוורץ.",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-17.jpg"
+    },
+    {
+      "id": "kcm-19",
+      "name": "קומזיץ",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/19/hls.m3u8",
+      "description": "רוצים להתרגש? להתחזק משירה יהודית אמיתית? זהו הערוץ עבורכם, בעריכת נפתלי קמפה..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-19.jpg"
+    },
+    {
+      "id": "kcm-20",
+      "name": "צעד תימני",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/20/hls.m3u8",
+      "description": "גם את העדה התימנית לא קיפחנו. הכינו את הרגליים לריקוד תימני אסלי, עם הלהיטים התימניים הגדולים בביצוע מיטב היוצרים..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-20.jpg"
+    },
+    {
+      "id": "kcm-21",
+      "name": "בוחרים גרין",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/21/hls.m3u8",
+      "description": "יוסי גרין, המלחין הפורה של המוזיקה החסידית, הלחין מאות שירים, שבוצעו בידי עשרות זמרים. האזינו ללחניו הגדולים, המשמחים והמרגשים.",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-21.jpg"
+    },
+    {
+      "id": "kcm-22",
+      "name": "english classics",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/22/hls.m3u8",
+      "description": "",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-22.jpg"
+    },
+    {
+      "id": "kcm-23",
+      "name": "חיים בנט",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/23/hls.m3u8",
+      "description": "מעל חמישים שנה של יצירה מוזיקלית יהודית אותנטית. שיריו של ר' חיים בנט מושרים בכל בית יהודי, וכעת הם מוגשים לכם בערוץ משיריו..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-23.jpg"
+    },
+    {
+      "id": "kcm-25",
+      "name": "לרקוד בחתונה",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/25/hls.m3u8",
+      "description": "יש לכם שמחת אירוסין//חתונה/שבע ברכות במשפחה? מזל טוב! היכנסו לאווירת שמחת החתונה - בעריכת ארז שמואלי",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-25.jpg"
+    },
+    {
+      "id": "kcm-26",
+      "name": "חיים ישראל ",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/26/hls.m3u8",
+      "description": "כוכב הזמר חיים ישראל יוצר כבר עשרים וחמש שנה מוסיקה ים תיכונית יהודית. זהו ערוץ מיוחד משיריו..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-26.jpg"
+    },
+    {
+      "id": "kcm-27",
+      "name": "מנגינה של תקווה",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/27/hls.m3u8",
+      "description": "הערוץ המיוחד שהושק בתחילת ימי הקורונה, שירי תקווה ואמונה, הרלוונטיים לא פחות גם כיום..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-27.jpg"
+    },
+    {
+      "id": "kcm-28",
+      "name": "מוזיקה אלקטרונית",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/28/hls.m3u8",
+      "description": "גלו עולם שלם של מוזיקה יהודית אלקטרונית מקפיצה ומשמחת, בעריכת המוזיקאי והמעבד יוחנן בלייך",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-28.jpg"
+    },
+    {
+      "id": "kcm-29",
+      "name": "משה לאופר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/29/hls.m3u8",
+      "description": "מיטב הלהיטים האהובים של המלחין והמעבד הותיק משה לאופר",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-29.jpg"
+    },
+    {
+      "id": "kcm-3",
+      "name": "ישראלי אלטרנטיבי",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/03/hls.m3u8",
+      "description": "המוסיקה היהודית המתחדשת מכילה עשרות זמרים יוצרים ומלחינים פוריים במיוחד. ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-3.jpg"
+    },
+    {
+      "id": "kcm-30",
+      "name": "יעקב שוואקי",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/30/hls.m3u8",
+      "description": "יותר מעשרים שנה שקולו של שוואקי מלווה את המוזיקה היהודית. כעת, תוכלו להאזין לערוץ מיוחד עם שיריו הגדולים מכל הזמנים..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-30.jpg"
+    },
+    {
+      "id": "kcm-31",
+      "name": "פרחי מיאמי",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/31/hls.m3u8",
+      "description": "ערוץ המוזיקה של מקהלת הילדים האהובה שכולנו גדלנו על שיריה. עם השירים האהובים, והמופעים הגדולים..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-31.jpg"
+    },
+    {
+      "id": "kcm-32",
+      "name": "בעלזא",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/32/hls.m3u8",
+      "description": "שירי מקהלת חסידות בעלז, ערש המוזיקה החסידית המתחדשת. ערוץ המוזיקה החסידית השורשית..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-32.jpg"
+    },
+    {
+      "id": "kcm-33",
+      "name": "ליפא שמלצער",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/33/hls.m3u8",
+      "description": "ליפא שמעלצר הוא זמר, כותב ומלחין פורץ דרך במוזיקה החסידית. זהו ערוץ מיוחד עם השירים הגדולים של ליפא",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-33.jpg"
+    },
+    {
+      "id": "kcm-34",
+      "name": "הופעות",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/34/hls.m3u8",
+      "description": "השירים, הביצועים והרגעים המוזיקליים הבלתי נשכחים מההופעות הגדולות מכל הזמנים, בשבילך ולהנאתך :)",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-34.jpg"
+    },
+    {
+      "id": "kcm-35",
+      "name": "הפלייליסט",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/35/hls.m3u8",
+      "description": "השירים שהוכתרו כלהיטים ע",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-35.jpg"
+    },
+    {
+      "id": "kcm-39",
+      "name": "ישי ריבו",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/39/hls.m3u8",
+      "description": "מיטב שיריו של האמן והיוצר ישי ריבו בערוץ  שיעשו לכם טוב על הלב",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-39.jpg"
+    },
+    {
+      "id": "kcm-4",
+      "name": "ים תיכוני",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/04/hls.m3u8",
+      "description": "ים תיכוני\r\nמוזיקה קלילה וכיפית לאוירה טובה - בעריכת גיל ישראלוב",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-4.jpg"
+    },
+    {
+      "id": "kcm-40",
+      "name": "עם הקפה של הבוקר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/40/hls.m3u8",
+      "description": "מיטב השירים שיפתחו לכם את היום בצורה הכי מושלמת שאפשר. \r\n",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-40.jpg"
+    },
+    {
+      "id": "kcm-41",
+      "name": "תודה לאבא",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/41/hls.m3u8",
+      "description": "שירי תודה והודיה לבורא עולם. ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-41.jpg"
+    },
+    {
+      "id": "kcm-42",
+      "name": "להתרגש",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/42/hls.m3u8",
+      "description": "להתרגש עם מיטב שירי הרגש מכל הזמנים.",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-42.jpg"
+    },
+    {
+      "id": "kcm-46",
+      "name": "צועדים לשמחה",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/46/hls.m3u8",
+      "description": "מיטב השירים שעשו לנו את השנה ועלו לדירוג  במצעד השנתי של קול חי מיוזיק וקוקה-קולה לסיכום תשפ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-46.jpg"
+    },
+    {
+      "id": "kcm-48",
+      "name": "בדרך לכותל",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/48/hls.m3u8",
+      "description": "מתגעגעים לירושלים. השירים שיובילו אותנו בין הסמטאות.. ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-48.jpg"
+    },
+    {
+      "id": "kcm-49",
+      "name": "מתחת לחופה",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/49/hls.m3u8",
+      "description": "מתחת לחופה\r\nלרגע המרגש ביותר בחיים. החופה ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-49.jpg"
+    },
+    {
+      "id": "kcm-5",
+      "name": "בטעם של פעם",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/05/hls.m3u8",
+      "description": "אפרים קמיסר מביא לכם את השירים שכולנו גדלנו עליהם. ממש כמו בתכנית 'בטעם של פעם'...",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-5.jpg"
+    },
+    {
+      "id": "kcm-51",
+      "name": "האסק - הביצועים הגדולים",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/51/hls.m3u8",
+      "description": "הרגעים הבלתי נשכחים מהמופע הגדול ביותר בעולם המוסיקה היהודית - קרידט צילום: חיים טויטו",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-51.jpg"
+    },
+    {
+      "id": "kcm-52",
+      "name": "הדואטים הגדולים",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/52/hls.m3u8",
+      "description": "הדואטים ושיתופי הפעולה המוזיקליים הגדולים של המוסיקה היהודית ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-52.jpg"
+    },
+    {
+      "id": "kcm-53",
+      "name": "אידישע געזאנגען",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/53/hls.m3u8",
+      "description": "מאמע לשון.. פארשטייסט? ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-53.jpg"
+    },
+    {
+      "id": "kcm-54",
+      "name": "ברוך לוין",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/54/hls.m3u8",
+      "description": " שירי הנשמה והדביקות של ר' ברוך לוין",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-54.jpg"
+    },
+    {
+      "id": "kcm-55",
+      "name": "דדי גראוכר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/55/hls.m3u8",
+      "description": "מחווה מיוחדת לזמר האהוב שהלך בטרם עת. דדי ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-55.jpg"
+    },
+    {
+      "id": "kcm-56",
+      "name": "מיכאל שטרייכר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/56/hls.m3u8",
+      "description": "מאות שירים מעשרות האלבומים של הזמר החסידי ר' מיכאל שטרייכר ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-56.jpg"
+    },
+    {
+      "id": "kcm-57",
+      "name": "מנדי וואלד",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/57/hls.m3u8",
+      "description": "הזמר הבלתי נשכח של שנות התשעים. עם הלהיטים והאלבומים ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-57.jpg"
+    },
+    {
+      "id": "kcm-58",
+      "name": "נפתלי קמפה",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/58/hls.m3u8",
+      "description": "הזמר האהוב עכשיו בערוץ ייחודי עם מגוון השירים בביצועו ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-58.jpg"
+    },
+    {
+      "id": "kcm-59",
+      "name": "שנות התשם",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/59/hls.m3u8",
+      "description": "לא רק פריד ובן דוד. כל הלהיטים של שנות התש",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-59.jpg"
+    },
+    {
+      "id": "kcm-6",
+      "name": "רק ילדים",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/06/hls.m3u8",
+      "description": "שירי מקהלות הילדים האהובות מכל הזמנים: פרחי לונדון, מיאמי, צליל וזמר, ישיבה בויס, ועוד ועוד...",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-6.jpg"
+    },
+    {
+      "id": "kcm-60",
+      "name": "שנות התשן",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/60/hls.m3u8",
+      "description": "גדלתם בעשור של שנות התש",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-60.jpg"
+    },
+    {
+      "id": "kcm-61",
+      "name": "גד אלבז",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/61/hls.m3u8",
+      "description": "ענק הזמר גד אלבז עם הלהיטים מכל התקופות ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-61.jpg"
+    },
+    {
+      "id": "kcm-62",
+      "name": "בערי וובר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/62/hls.m3u8",
+      "description": "בערי וועבער עם השירים האהובים מכל הזמנים ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-62.jpg"
+    },
+    {
+      "id": "kcm-63",
+      "name": "בני פרידמן",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/63/hls.m3u8",
+      "description": "השירים האהובים של בני פרידמן בערוץ אחד ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-63.jpg"
+    },
+    {
+      "id": "kcm-65",
+      "name": "מרדכי שפירא",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/65/hls.m3u8",
+      "description": "מהלהיט הראשון ועד לאלבום האחרון. מרדכי שפירא בערוץ משיריו ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-65.jpg"
+    },
+    {
+      "id": "kcm-66",
+      "name": "שלוימי גרטנר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/66/hls.m3u8",
+      "description": "ערוץ מיוחד משירי המוזיקאים היוצרים במסגרת 'מוזיקה נטוורק'",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-66.jpg"
+    },
+    {
+      "id": "kcm-67",
+      "name": "שמילי אונגר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/67/hls.m3u8",
+      "description": "בני ברק לעד - חגיגה של עיר תורה וחסידות",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-67.jpg"
+    },
+    {
+      "id": "kcm-68",
+      "name": "מיכאל שניצלער",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/68/hls.m3u8",
+      "description": "מודיעין עילית לעד - חגיגה חסידית מיוחדת",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-68.jpg"
+    },
+    {
+      "id": "kcm-69",
+      "name": "שירים שילדים אוהבים",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/69/hls.m3u8",
+      "description": "הפלייליסט הרשמי לשנת ב..",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-69.jpg"
+    },
+    {
+      "id": "kcm-7",
+      "name": "קרליבך",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/07/hls.m3u8",
+      "description": "מבית 'צליל וזמר' - מיטב שירי המוסיקה החסידית בביצוע ילדי ישיבה בויס",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-7.jpg"
+    },
+    {
+      "id": "kcm-70",
+      "name": "ישיבה בויס ב",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/70/hls.m3u8",
+      "description": "ערוץ נוסף מישיבה בויס שלום ווגשל ומקהלת הילדים ",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-70.jpg"
+    },
+    {
+      "id": "kcm-72",
+      "name": "שלמה כהן",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/72/hls.m3u8",
+      "description": "ערוץ של שמחה והודיה הנעשה בשיתוף ארגון 'עזר מציון'",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-72.jpg"
+    },
+    {
+      "id": "kcm-73",
+      "name": "משה גולדמאן",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/73/hls.m3u8",
+      "description": "הזמר החסידי לנצח - שירים שקטים ומרגשים לאוירה ייחודית",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-73.jpg"
+    },
+    {
+      "id": "kcm-74",
+      "name": "אייבי רוטנברג",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/74/hls.m3u8",
+      "description": "היצירות הקלאסיות הגדולות מאת המלחינים הגדולים בהגשה ייחודית ועכשווית",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-74.jpg"
+    },
+    {
+      "id": "kcm-75",
+      "name": "אהרון רזאל",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/75/hls.m3u8",
+      "description": "מיטב הלהיטים של המוסיקה היהודית לערב נעים ורגוע",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-75.jpg"
+    },
+    {
+      "id": "kcm-76",
+      "name": "מזרחית של פעם",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/76/hls.m3u8",
+      "description": "רגעים מרגשים, התוועדויות, סיפורים ושירים מעולם החסידות",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-76.jpg"
+    },
+    {
+      "id": "kcm-77",
+      "name": "עם הצ'ולנט בליל שישי ",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/77/hls.m3u8",
+      "description": "ערוץ מוזיקלי מיוחד לליל שישי, עם מיטב שירי השבת",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-77.jpg"
+    },
+    {
+      "id": "kcm-78",
+      "name": "להתכונן לשבת באווירה מזרחית",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/78/hls.m3u8",
+      "description": "סיפורי צדיקים מרתקים לכל המשפחה",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-78.jpg"
+    },
+    {
+      "id": "kcm-79",
+      "name": "סעודה שלישית",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/79/hls.m3u8",
+      "description": "ניגוני חב\"ד בביצועים שונים, שירים שהפכו לנכס צאן ברזל",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-79.jpg"
+    },
+    {
+      "id": "kcm-8",
+      "name": "על הפרענצאס",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/08/hls.m3u8",
+      "description": "לילה. שירים שקטים, אווירה מיוחדת ולפעמים גם קצת נוסטלגיה",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-8.jpg"
+    },
+    {
+      "id": "kcm-80",
+      "name": "הלב בוכה",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/80/hls.m3u8",
+      "description": "ניגוני שבת קודש - זמירות וחזנות לשבת",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-80.jpg"
+    },
+    {
+      "id": "kcm-82",
+      "name": "רבי אלתר",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/82/hls.m3u8",
+      "description": "תפילות, פיוטים וניגונים המיוחדים לימים הנוראים",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-82.jpg"
+    },
+    {
+      "id": "kcm-85",
+      "name": "איציק אשל",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/85/hls.m3u8",
+      "description": "שירי וניגוני חנוכה באוירה מיוחדת",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-85.jpg"
+    },
+    {
+      "id": "kcm-9",
+      "name": "חבד 770",
+      "categories": [
+        "קול חי מיוזיק"
+      ],
+      "stream_url": "https://live.kcm.fm/09/hls.m3u8",
+      "description": "אי אפשר להישאר אדיש. ניגונים ושירים חסידיים קלאסיים מכל הזמנים",
+      "source": "kcm",
+      "logo_url": "https://images.kcm.fm/channelImage/kcm-9.jpg"
+    }
+  ],
+  "top25_ids": [],
+  "categories": [
+    {
+      "id": "news",
+      "name": "חדשות ואקטואליה",
+      "items": [
+        {
+          "type": "station",
+          "id": "reshet-bet"
+        },
+        {
+          "type": "station",
+          "id": "glz"
+        },
+        {
+          "type": "station",
+          "id": "103fm"
+        },
+        {
+          "type": "station",
+          "id": "c14news"
+        },
+        {
+          "type": "station",
+          "id": "i24news"
+        },
+        {
+          "type": "station",
+          "id": "knesset-channel"
+        },
+        {
+          "type": "station",
+          "id": "kan-11"
+        },
+        {
+          "type": "station",
+          "id": "n12"
+        },
+        {
+          "type": "station",
+          "id": "israel-news-talk-radio"
+        },
+        {
+          "type": "station",
+          "id": "reka"
+        },
+        {
+          "type": "station",
+          "id": "kol-israel-in-arabic"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "name": "רדיו אזורי",
+      "items": [
+        {
+          "type": "separator",
+          "name": "מרכז"
+        },
+        {
+          "type": "station",
+          "id": "96fm"
+        },
+        {
+          "type": "station",
+          "id": "91fm"
+        },
+        {
+          "type": "station",
+          "id": "102fm"
+        },
+        {
+          "type": "station",
+          "id": "100fm"
+        },
+        {
+          "type": "station",
+          "id": "hatahana"
+        },
+        {
+          "type": "station",
+          "id": "hamesh-99-5"
+        },
+        {
+          "type": "station",
+          "id": "kol-ness-ziona"
+        },
+        {
+          "type": "station",
+          "id": "kol-ramla"
+        },
+        {
+          "type": "station",
+          "id": "kol-hashfela"
+        },
+        {
+          "type": "station",
+          "id": "kol-ramat-hasharon-106fm"
+        },
+        {
+          "type": "station",
+          "id": "kol-rishonim"
+        },
+        {
+          "type": "station",
+          "id": "radio-azori"
+        },
+        {
+          "type": "station",
+          "id": "101fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-kesem"
+        },
+        {
+          "type": "station",
+          "id": "hevrati"
+        },
+        {
+          "type": "separator",
+          "name": "צפון"
+        },
+        {
+          "type": "station",
+          "id": "104-5-fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-haifa-107-5fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-krayot-fm"
+        },
+        {
+          "type": "station",
+          "id": "zlilei-hakrayot"
+        },
+        {
+          "type": "station",
+          "id": "har-carmel"
+        },
+        {
+          "type": "station",
+          "id": "radio-nahariya"
+        },
+        {
+          "type": "station",
+          "id": "radio-kol-hatzafon"
+        },
+        {
+          "type": "station",
+          "id": "radio-kol-hakinneret"
+        },
+        {
+          "type": "station",
+          "id": "kol-hagolan"
+        },
+        {
+          "type": "station",
+          "id": "kol-galim"
+        },
+        {
+          "type": "station",
+          "id": "kol-arim"
+        },
+        {
+          "type": "station",
+          "id": "neurim-fm"
+        },
+        {
+          "type": "separator",
+          "name": "דרום"
+        },
+        {
+          "type": "station",
+          "id": "radio-darom-9697fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-darom-1015fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-99fm"
+        },
+        {
+          "type": "station",
+          "id": "kol-hanegev"
+        },
+        {
+          "type": "station",
+          "id": "kol-dimona"
+        },
+        {
+          "type": "station",
+          "id": "eilat-beach-radio"
+        },
+        {
+          "type": "station",
+          "id": "kol-hayam-haadom-102fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-eshel"
+        },
+        {
+          "type": "separator",
+          "name": "שונות אזוריות"
+        },
+        {
+          "type": "station",
+          "id": "1062fm"
+        },
+        {
+          "type": "station",
+          "id": "galey-israel"
+        },
+        {
+          "type": "station",
+          "id": "radio-kol-netanya"
+        },
+        {
+          "type": "station",
+          "id": "radio-kol-izrael"
+        },
+        {
+          "type": "station",
+          "id": "kol-hayam-hatichon"
+        },
+        {
+          "type": "station",
+          "id": "kol-ramah"
+        },
+        {
+          "type": "station",
+          "id": "ashams"
+        },
+        {
+          "type": "station",
+          "id": "carmelfm"
+        },
+        {
+          "type": "station",
+          "id": "radio-sawa"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "name": "מוזיקה",
+      "items": [
+        {
+          "type": "separator",
+          "name": "להיטים ופופ"
+        },
+        {
+          "type": "station",
+          "id": "glgltz"
+        },
+        {
+          "type": "station",
+          "id": "reshet-gimmel"
+        },
+        {
+          "type": "station",
+          "id": "88fm"
+        },
+        {
+          "type": "station",
+          "id": "hitsil"
+        },
+        {
+          "type": "station",
+          "id": "radio-538"
+        },
+        {
+          "type": "station",
+          "id": "up2dance"
+        },
+        {
+          "type": "station",
+          "id": "69fm"
+        },
+        {
+          "type": "station",
+          "id": "israelivoiceradio"
+        },
+        {
+          "type": "station",
+          "id": "radio-mania"
+        },
+        {
+          "type": "station",
+          "id": "nas"
+        },
+        {
+          "type": "station",
+          "id": "teder"
+        },
+        {
+          "type": "station",
+          "id": "dudi-fm"
+        },
+        {
+          "type": "separator",
+          "name": "מזרחי וים תיכוני"
+        },
+        {
+          "type": "station",
+          "id": "al-hagal"
+        },
+        {
+          "type": "station",
+          "id": "radio-kahol-lavan"
+        },
+        {
+          "type": "station",
+          "id": "radio-menta"
+        },
+        {
+          "type": "station",
+          "id": "radio-yasoo"
+        },
+        {
+          "type": "station",
+          "id": "noshmim-mizrahit"
+        },
+        {
+          "type": "station",
+          "id": "katzav-mizrahit"
+        },
+        {
+          "type": "station",
+          "id": "radio-dante"
+        },
+        {
+          "type": "station",
+          "id": "radio-hamizrah"
+        },
+        {
+          "type": "station",
+          "id": "radio-idan"
+        },
+        {
+          "type": "station",
+          "id": "glglz-med"
+        },
+        {
+          "type": "station",
+          "id": "ketzev-yamtichoni"
+        },
+        {
+          "type": "station",
+          "id": "radio-dikaun-mizrahi"
+        },
+        {
+          "type": "station",
+          "id": "musichevrati"
+        },
+        {
+          "type": "station",
+          "id": "martit"
+        },
+        {
+          "type": "separator",
+          "name": "נוסטלגיה"
+        },
+        {
+          "type": "station",
+          "id": "80sforever"
+        },
+        {
+          "type": "station",
+          "id": "metsiot-israeli"
+        },
+        {
+          "type": "station",
+          "id": "metsiot"
+        },
+        {
+          "type": "station",
+          "id": "love-songs-radio"
+        },
+        {
+          "type": "station",
+          "id": "nostalgia-963fm"
+        },
+        {
+          "type": "station",
+          "id": "smooth-70s"
+        },
+        {
+          "type": "station",
+          "id": "ivri6"
+        },
+        {
+          "type": "separator",
+          "name": "רוק ואלטרנטיבי"
+        },
+        {
+          "type": "station",
+          "id": "kzradio"
+        },
+        {
+          "type": "station",
+          "id": "zerock"
+        },
+        {
+          "type": "station",
+          "id": "radio-indie-israel"
+        },
+        {
+          "type": "station",
+          "id": "idobi"
+        },
+        {
+          "type": "separator",
+          "name": "ג'אז וקלאסי"
+        },
+        {
+          "type": "station",
+          "id": "kol-hamusic"
+        },
+        {
+          "type": "station",
+          "id": "classic-fm"
+        },
+        {
+          "type": "station",
+          "id": "jazz24"
+        },
+        {
+          "type": "station",
+          "id": "classical-king-fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-mozart"
+        },
+        {
+          "type": "separator",
+          "name": "אלקטרוני וסגנונות מיוחדים"
+        },
+        {
+          "type": "station",
+          "id": "ah-fm"
+        },
+        {
+          "type": "station",
+          "id": "radio-beat"
+        },
+        {
+          "type": "station",
+          "id": "streetstune-radio"
+        },
+        {
+          "type": "station",
+          "id": "joint"
+        },
+        {
+          "type": "station",
+          "id": "joint-radio-blues"
+        },
+        {
+          "type": "station",
+          "id": "joint-radio-beat"
+        },
+        {
+          "type": "station",
+          "id": "ambient-sleeping-pill"
+        },
+        {
+          "type": "station",
+          "id": "salsa-tel-aviv"
+        },
+        {
+          "type": "station",
+          "id": "salseo-radio"
+        },
+        {
+          "type": "station",
+          "id": "harokdim"
+        },
+        {
+          "type": "station",
+          "id": "radio-sol"
+        },
+        {
+          "type": "station",
+          "id": "radio-angelika"
+        },
+        {
+          "type": "station",
+          "id": "sumba887"
+        },
+        {
+          "type": "station",
+          "id": "radio-savta"
+        },
+        {
+          "type": "station",
+          "id": "radio-one"
+        },
+        {
+          "type": "subcategory",
+          "id": "world-music",
+          "name": "🌍 תחנות מהעולם",
+          "items": [
+            {
+              "type": "station",
+              "id": "105-network"
+            },
+            {
+              "type": "station",
+              "id": "franceinfo"
+            },
+            {
+              "type": "station",
+              "id": "avtoradio"
+            },
+            {
+              "type": "station",
+              "id": "917xfm"
+            },
+            {
+              "type": "station",
+              "id": "antenne-salzburg"
+            },
+            {
+              "type": "station",
+              "id": "abc"
+            },
+            {
+              "type": "station",
+              "id": "capital-radio"
+            },
+            {
+              "type": "station",
+              "id": "europa-fm-romania"
+            },
+            {
+              "type": "station",
+              "id": "radio-france-international"
+            },
+            {
+              "type": "station",
+              "id": "rai-radio-1"
+            },
+            {
+              "type": "station",
+              "id": "voice-of-america"
+            },
+            {
+              "type": "station",
+              "id": "heart-london"
+            },
+            {
+              "type": "station",
+              "id": "itch-fm"
+            },
+            {
+              "type": "station",
+              "id": "clube-fm"
+            },
+            {
+              "type": "station",
+              "id": "kahol-yavan"
+            },
+            {
+              "type": "station",
+              "id": "lux-fm"
+            },
+            {
+              "type": "station",
+              "id": "mc-doualiya"
+            },
+            {
+              "type": "station",
+              "id": "los40"
+            },
+            {
+              "type": "station",
+              "id": "pervoe-radio"
+            },
+            {
+              "type": "station",
+              "id": "radio-dvash-yevani"
+            },
+            {
+              "type": "station",
+              "id": "radio-b-b-vostok"
+            },
+            {
+              "type": "station",
+              "id": "radio-nova"
+            },
+            {
+              "type": "station",
+              "id": "radio-ran"
+            },
+            {
+              "type": "station",
+              "id": "radio-sahar"
+            },
+            {
+              "type": "station",
+              "id": "radio-veronika"
+            },
+            {
+              "type": "station",
+              "id": "the-best"
+            },
+            {
+              "type": "station",
+              "id": "klub-radio"
+            },
+            {
+              "type": "station",
+              "id": "active-radio-90fm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "judaism",
+      "name": "רדיו יהודי",
+      "items": [
+        {
+          "type": "separator",
+          "name": "רדיו תורני"
+        },
+        {
+          "type": "station",
+          "id": "93fm"
+        },
+        {
+          "type": "station",
+          "id": "kol-barama"
+        },
+        {
+          "type": "station",
+          "id": "radio-inn-7"
+        },
+        {
+          "type": "station",
+          "id": "radio-hidabroot"
+        },
+        {
+          "type": "station",
+          "id": "radio-2000"
+        },
+        {
+          "type": "station",
+          "id": "reshet-moreshet"
+        },
+        {
+          "type": "station",
+          "id": "kol-halacha"
+        },
+        {
+          "type": "station",
+          "id": "livetorani"
+        },
+        {
+          "type": "station",
+          "id": "malchut-pe-mehadrin-radio"
+        },
+        {
+          "type": "station",
+          "id": "radio-idan-dati"
+        },
+        {
+          "type": "station",
+          "id": "radio-mevaser-tov"
+        },
+        {
+          "type": "station",
+          "id": "levisrael"
+        },
+        {
+          "type": "station",
+          "id": "musayof"
+        },
+        {
+          "type": "station",
+          "id": "kolhaemet"
+        },
+        {
+          "type": "separator",
+          "name": "ברסלב"
+        },
+        {
+          "type": "station",
+          "id": "breslev-carmiel"
+        },
+        {
+          "type": "station",
+          "id": "halachot"
+        },
+        {
+          "type": "station",
+          "id": "radio-breslev"
+        },
+        {
+          "type": "station",
+          "id": "radio-breslev-kol-hanahal"
+        },
+        {
+          "type": "station",
+          "id": "shorts"
+        }
+      ]
+    },
+    {
+      "id": "jewish-music",
+      "name": "מוזיקה יהודית",
+      "items": [
+        {
+          "type": "station",
+          "id": "jewish-radio-kol-hai"
+        },
+        {
+          "type": "station",
+          "id": "107-6"
+        },
+        {
+          "type": "station",
+          "id": "radio-kol-simcha"
+        },
+        {
+          "type": "station",
+          "id": "jewish-music-stream"
+        },
+        {
+          "type": "station",
+          "id": "toker-fm"
+        },
+        {
+          "type": "station",
+          "id": "kol-simcha-hits"
+        },
+        {
+          "type": "station",
+          "id": "kol-simcha-light"
+        },
+        {
+          "type": "station",
+          "id": "radio-shabazi"
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "name": "שונות ונישות",
+      "items": [
+        {
+          "type": "separator",
+          "name": "ספורט ואקדמיה"
+        },
+        {
+          "type": "station",
+          "id": "5radio"
+        },
+        {
+          "type": "station",
+          "id": "bgu-radio"
+        },
+        {
+          "type": "station",
+          "id": "open-university-radio"
+        },
+        {
+          "type": "separator",
+          "name": "ילדים ונוער"
+        },
+        {
+          "type": "station",
+          "id": "kankids"
+        },
+        {
+          "type": "station",
+          "id": "kolyaldeyisrael"
+        },
+        {
+          "type": "station",
+          "id": "teen-buzz"
+        },
+        {
+          "type": "separator",
+          "name": "גלותי ובינלאומי"
+        },
+        {
+          "type": "station",
+          "id": "israeliradiomiami"
+        },
+        {
+          "type": "station",
+          "id": "kol-california"
+        },
+        {
+          "type": "separator",
+          "name": "שונות"
+        },
+        {
+          "type": "station",
+          "id": "reshet-aleph"
+        },
+        {
+          "type": "station",
+          "id": "lolfmradio"
+        },
+        {
+          "type": "station",
+          "id": "radio-nina"
+        },
+        {
+          "type": "station",
+          "id": "radioplus"
+        },
+        {
+          "type": "station",
+          "id": "radio106"
+        },
+        {
+          "type": "station",
+          "id": "radio5"
+        },
+        {
+          "type": "station",
+          "id": "efi-logue"
+        },
+        {
+          "type": "station",
+          "id": "radiofix2525"
+        },
+        {
+          "type": "station",
+          "id": "kolhalev"
+        },
+        {
+          "type": "station",
+          "id": "radio-eol"
+        }
+      ]
+    },
+    {
+      "id": "kcm",
+      "name": "קול חי מיוזיק",
+      "items": [
+        {
+          "type": "subcategory",
+          "id": "kcm-genres",
+          "name": "🎵 סגנונות",
+          "items": [
+            {
+              "type": "station",
+              "id": "kcm-35"
+            },
+            {
+              "type": "station",
+              "id": "kcm-10"
+            },
+            {
+              "type": "station",
+              "id": "kcm-5"
+            },
+            {
+              "type": "station",
+              "id": "kcm-4"
+            },
+            {
+              "type": "station",
+              "id": "kcm-19"
+            },
+            {
+              "type": "station",
+              "id": "kcm-3"
+            },
+            {
+              "type": "station",
+              "id": "kcm-8"
+            },
+            {
+              "type": "station",
+              "id": "kcm-9"
+            },
+            {
+              "type": "station",
+              "id": "kcm-52"
+            },
+            {
+              "type": "station",
+              "id": "kcm-28"
+            },
+            {
+              "type": "station",
+              "id": "kcm-53"
+            },
+            {
+              "type": "station",
+              "id": "kcm-59"
+            },
+            {
+              "type": "station",
+              "id": "kcm-60"
+            },
+            {
+              "type": "station",
+              "id": "kcm-17"
+            },
+            {
+              "type": "station",
+              "id": "kcm-22"
+            },
+            {
+              "type": "station",
+              "id": "kcm-76"
+            },
+            {
+              "type": "station",
+              "id": "kcm-20"
+            },
+            {
+              "type": "station",
+              "id": "kcm-12"
+            },
+            {
+              "type": "station",
+              "id": "kcm-13"
+            },
+            {
+              "type": "station",
+              "id": "kcm-6"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "id": "kcm-mood",
+          "name": "💭 מצב רוח",
+          "items": [
+            {
+              "type": "station",
+              "id": "kcm-2"
+            },
+            {
+              "type": "station",
+              "id": "kcm-69"
+            },
+            {
+              "type": "station",
+              "id": "kcm-40"
+            },
+            {
+              "type": "station",
+              "id": "kcm-11"
+            },
+            {
+              "type": "station",
+              "id": "kcm-25"
+            },
+            {
+              "type": "station",
+              "id": "kcm-80"
+            },
+            {
+              "type": "station",
+              "id": "kcm-42"
+            },
+            {
+              "type": "station",
+              "id": "kcm-27"
+            },
+            {
+              "type": "station",
+              "id": "kcm-46"
+            },
+            {
+              "type": "station",
+              "id": "kcm-77"
+            },
+            {
+              "type": "station",
+              "id": "kcm-49"
+            },
+            {
+              "type": "station",
+              "id": "kcm-41"
+            },
+            {
+              "type": "station",
+              "id": "kcm-34"
+            },
+            {
+              "type": "station",
+              "id": "kcm-79"
+            },
+            {
+              "type": "station",
+              "id": "kcm-78"
+            },
+            {
+              "type": "station",
+              "id": "kcm-48"
+            },
+            {
+              "type": "station",
+              "id": "kcm-106"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "id": "kcm-artists",
+          "name": "🎤 אמנים",
+          "items": [
+            {
+              "type": "station",
+              "id": "kcm-113"
+            },
+            {
+              "type": "station",
+              "id": "kcm-58"
+            },
+            {
+              "type": "station",
+              "id": "kcm-30"
+            },
+            {
+              "type": "station",
+              "id": "kcm-39"
+            },
+            {
+              "type": "station",
+              "id": "kcm-15"
+            },
+            {
+              "type": "station",
+              "id": "kcm-16"
+            },
+            {
+              "type": "station",
+              "id": "kcm-54"
+            },
+            {
+              "type": "station",
+              "id": "kcm-26"
+            },
+            {
+              "type": "station",
+              "id": "kcm-65"
+            },
+            {
+              "type": "station",
+              "id": "kcm-63"
+            },
+            {
+              "type": "station",
+              "id": "kcm-31"
+            },
+            {
+              "type": "station",
+              "id": "kcm-67"
+            },
+            {
+              "type": "station",
+              "id": "kcm-62"
+            },
+            {
+              "type": "station",
+              "id": "kcm-32"
+            },
+            {
+              "type": "station",
+              "id": "kcm-82"
+            },
+            {
+              "type": "station",
+              "id": "kcm-66"
+            },
+            {
+              "type": "station",
+              "id": "kcm-33"
+            },
+            {
+              "type": "station",
+              "id": "kcm-21"
+            },
+            {
+              "type": "station",
+              "id": "kcm-72"
+            },
+            {
+              "type": "station",
+              "id": "kcm-68"
+            },
+            {
+              "type": "station",
+              "id": "kcm-51"
+            },
+            {
+              "type": "station",
+              "id": "kcm-73"
+            },
+            {
+              "type": "station",
+              "id": "kcm-7"
+            },
+            {
+              "type": "station",
+              "id": "kcm-75"
+            },
+            {
+              "type": "station",
+              "id": "kcm-74"
+            },
+            {
+              "type": "station",
+              "id": "kcm-55"
+            },
+            {
+              "type": "station",
+              "id": "kcm-61"
+            },
+            {
+              "type": "station",
+              "id": "kcm-56"
+            },
+            {
+              "type": "station",
+              "id": "kcm-85"
+            },
+            {
+              "type": "station",
+              "id": "kcm-70"
+            },
+            {
+              "type": "station",
+              "id": "kcm-29"
+            },
+            {
+              "type": "station",
+              "id": "kcm-57"
+            },
+            {
+              "type": "station",
+              "id": "kcm-23"
+            },
+            {
+              "type": "station",
+              "id": "kcm-112"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

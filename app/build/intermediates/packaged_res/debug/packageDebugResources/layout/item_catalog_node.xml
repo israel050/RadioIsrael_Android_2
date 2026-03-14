@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  שורת עריכה ב-CatalogEditorActivity (קטגוריה / תת-קטגוריה / מפריד / תחנה).
+  RTL: אייקון + שם בימין | כפתורי פעולה + ידית גרירה בשמאל.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layoutDirection="rtl"
+    android:background="?attr/selectableItemBackground"
+    android:paddingStart="12dp"
+    android:paddingEnd="4dp">
+
+    <ImageView
+        android:id="@+id/ivNodeIcon"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:src="@drawable/ic_category"
+        android:tint="@color/colorAccent"
+        android:contentDescription="" />
+
+    <TextView
+        android:id="@+id/tvNodeName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="10dp"
+        android:textSize="15sp"
+        android:textColor="@color/textPrimary"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <!-- כפתור שינוי שם -->
+    <ImageButton
+        android:id="@+id/btnNodeEdit"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_edit"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:tint="@color/textSecondary"
+        android:contentDescription="שינוי שם" />
+
+    <!-- כפתור מחיקה -->
+    <ImageButton
+        android:id="@+id/btnNodeDelete"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_close"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:tint="#E53935"
+        android:contentDescription="מחיקה" />
+
+    <!-- ידית גרירה -->
+    <ImageView
+        android:id="@+id/ivDragHandle"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@drawable/ic_drag_handle"
+        android:tint="@color/textSecondary"
+        android:contentDescription="" />
+
+</LinearLayout>

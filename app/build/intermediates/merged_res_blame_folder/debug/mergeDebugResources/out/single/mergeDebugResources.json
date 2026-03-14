@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_star_list.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_star_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_heart_filled.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_heart_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_heart_outline.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_heart_outline.xml"
+    },
+    {
+        "merged": "il.co.radioapp-debug-44:/layout_item_search_station.xml.flat",
+        "source": "il.co.radioapp-main-46:/layout/item_search_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "il.co.radioapp-debug-44:/drawable_bg_input.xml.flat",
+        "source": "il.co.radioapp-main-46:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_top25.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_top25.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_station_search.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_station_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_subcategory.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_subcategory.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_arrow_forward.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "il.co.radioapp-debug-44:/layout_fragment_add_category_item.xml.flat",
+        "source": "il.co.radioapp-main-46:/layout/fragment_add_category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_activity_top25_editor.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\activity_top25_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_catalog_node.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_catalog_node.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_activity_catalog_editor.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\activity_catalog_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_bg_logo_rounded.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\bg_logo_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_palette.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_palette.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_radio.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_drag_handle.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_drag_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_station_selected.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_station_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_arrow_left.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_fragment_station_list.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\fragment_station_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_nav_drawer.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_prev.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_station.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_station_addable.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_station_addable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "il.co.radioapp-debug-44:/drawable_ic_visibility_off.xml.flat",
+        "source": "il.co.radioapp-main-46:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_item_separator.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_mini_player.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\mini_player.xml"
+    },
+    {
+        "merged": "il.co.radioapp-debug-44:/layout_fragment_search_station.xml.flat",
+        "source": "il.co.radioapp-main-46:/layout/fragment_search_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\layout_fragment_categories.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-debug-44:\\drawable_ic_volume.xml.flat",
+        "source": "C:\\Users\\ישראל גולדווסר\\.gradle\\daemon\\8.11.1\\il.co.radioapp-main-46:\\drawable\\ic_volume.xml"
+    },
+    {
+        "merged": "il.co.radioapp-debug-44:/layout_fragment_station_editor.xml.flat",
+        "source": "il.co.radioapp-main-46:/layout/fragment_station_editor.xml"
+    }
+]

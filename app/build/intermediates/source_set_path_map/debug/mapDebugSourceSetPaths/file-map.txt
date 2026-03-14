@@ -1,0 +1,46 @@
+il.co.radioapp-jetified-startup-runtime-1.1.1-0 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\res
+il.co.radioapp-jetified-lifecycle-livedata-core-ktx-2.8.7-1 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\06f9e2cc46eb98dc9579946b0796ad46\transformed\jetified-lifecycle-livedata-core-ktx-2.8.7\res
+il.co.radioapp-jetified-lifecycle-livedata-ktx-2.8.7-2 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0fefe763c50bada6c63a1c14b114b6a8\transformed\jetified-lifecycle-livedata-ktx-2.8.7\res
+il.co.radioapp-jetified-viewpager2-1.1.0-3 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1865fee4bd690ff9fd71f73d957b01a3\transformed\jetified-viewpager2-1.1.0\res
+il.co.radioapp-jetified-fragment-ktx-1.8.5-4 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\23d3e9aa9b9873c082086760e058248c\transformed\jetified-fragment-ktx-1.8.5\res
+il.co.radioapp-lifecycle-livedata-core-2.8.7-5 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2691961b265700b3aa29ef4d8115ba43\transformed\lifecycle-livedata-core-2.8.7\res
+il.co.radioapp-jetified-core-ktx-1.15.0-6 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2c34d9bc57e9cdad51b7010132c835d0\transformed\jetified-core-ktx-1.15.0\res
+il.co.radioapp-jetified-activity-ktx-1.8.1-7 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2df0ba94e2a7ce7bef5a1fac80a2b5a5\transformed\jetified-activity-ktx-1.8.1\res
+il.co.radioapp-jetified-lifecycle-viewmodel-ktx-2.8.7-8 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\375f198fed91cee823d2781325ba0b1b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.7\res
+il.co.radioapp-cardview-1.0.0-9 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3a00d66e7e879f34722a1946f4b97abe\transformed\cardview-1.0.0\res
+il.co.radioapp-jetified-media3-exoplayer-1.5.1-10 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3c16e88600536977d2a03cb6e06e8b1f\transformed\jetified-media3-exoplayer-1.5.1\res
+il.co.radioapp-jetified-appcompat-resources-1.7.0-11 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\5189a07eafb7bc60196dd8a13a6d22b9\transformed\jetified-appcompat-resources-1.7.0\res
+il.co.radioapp-jetified-customview-poolingcontainer-1.0.0-12 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\61bc063c9de771911d548d8044c2ce94\transformed\jetified-customview-poolingcontainer-1.0.0\res
+il.co.radioapp-media-1.7.0-13 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6b0be2a869c36e8feb899d840492689a\transformed\media-1.7.0\res
+il.co.radioapp-jetified-emoji2-views-helper-1.3.0-14 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6ed5b9a8c15a0891a72b49f076271720\transformed\jetified-emoji2-views-helper-1.3.0\res
+il.co.radioapp-jetified-emoji2-1.3.0-15 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\res
+il.co.radioapp-jetified-lifecycle-process-2.8.7-16 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\res
+il.co.radioapp-lifecycle-livedata-2.8.7-17 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\7f897e0e740b4bdff14a4d8e873a9998\transformed\lifecycle-livedata-2.8.7\res
+il.co.radioapp-jetified-savedstate-1.2.1-18 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\86f0619eb7362276d1d1176064eb52f0\transformed\jetified-savedstate-1.2.1\res
+il.co.radioapp-drawerlayout-1.1.1-19 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\874507e6a4efd5f147a276c607dc2458\transformed\drawerlayout-1.1.1\res
+il.co.radioapp-transition-1.5.0-20 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\962c7ff53d9f5c000e693ec6d53e21fb\transformed\transition-1.5.0\res
+il.co.radioapp-jetified-activity-1.8.1-21 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\97701624f9f3180a5c551afc372a7652\transformed\jetified-activity-1.8.1\res
+il.co.radioapp-recyclerview-1.3.1-22 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\9bbd3f3c9d240e846f0a1d637fb2a357\transformed\recyclerview-1.3.1\res
+il.co.radioapp-jetified-profileinstaller-1.4.0-23 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\res
+il.co.radioapp-constraintlayout-2.2.0-24 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a77657b966f756ac85c0b8764a8d9289\transformed\constraintlayout-2.2.0\res
+il.co.radioapp-material-1.12.0-25 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a8b514434979541ce0dfa99e639d5c85\transformed\material-1.12.0\res
+il.co.radioapp-jetified-annotation-experimental-1.4.1-26 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\bbeddfb7d9c9307f4d11efed40149389\transformed\jetified-annotation-experimental-1.4.1\res
+il.co.radioapp-jetified-tracing-1.2.0-27 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c30f250c99cc4d166c2d6918e80cba36\transformed\jetified-tracing-1.2.0\res
+il.co.radioapp-core-runtime-2.2.0-28 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c5ffe02eca44c57097c2d475bdc36083\transformed\core-runtime-2.2.0\res
+il.co.radioapp-jetified-lifecycle-runtime-release-29 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\cbe10bb4a71814894f00afc158fd3a6b\transformed\jetified-lifecycle-runtime-release\res
+il.co.radioapp-jetified-media3-session-1.5.1-30 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\d2a85e5963dc955ca062533781eaadf6\transformed\jetified-media3-session-1.5.1\res
+il.co.radioapp-appcompat-1.7.0-31 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\db9b94a2a02901e26da446beb5006f76\transformed\appcompat-1.7.0\res
+il.co.radioapp-jetified-savedstate-ktx-1.2.1-32 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\dea949299e528bc98e3deb231a8bdaa2\transformed\jetified-savedstate-ktx-1.2.1\res
+il.co.radioapp-core-1.15.0-33 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\res
+il.co.radioapp-coordinatorlayout-1.1.0-34 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ee45bc08a2744cd0e8927709186da0fc\transformed\coordinatorlayout-1.1.0\res
+il.co.radioapp-jetified-lifecycle-viewmodel-savedstate-2.8.7-35 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\eecebecbf1dfbe1f2eaf3fe6648c0fcd\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.7\res
+il.co.radioapp-fragment-1.8.5-36 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f912907bfa8da765d280170afbad8123\transformed\fragment-1.8.5\res
+il.co.radioapp-jetified-lifecycle-runtime-ktx-release-37 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fa84fe37e516ea7731ae724009e4fddc\transformed\jetified-lifecycle-runtime-ktx-release\res
+il.co.radioapp-jetified-glide-4.16.0-38 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fb6be7f55a5fe63130872d570c74356c\transformed\jetified-glide-4.16.0\res
+il.co.radioapp-jetified-lifecycle-viewmodel-release-39 C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fe55ffb23ca5a1c9fdedca5dca1ea392\transformed\jetified-lifecycle-viewmodel-release\res
+il.co.radioapp-resValues-40 C:\abc\RadioIsrael_Android_v4\app\build\generated\res\resValues\debug
+il.co.radioapp-packageDebugResources-41 C:\abc\RadioIsrael_Android_v4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+il.co.radioapp-packageDebugResources-42 C:\abc\RadioIsrael_Android_v4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+il.co.radioapp-debug-43 C:\abc\RadioIsrael_Android_v4\app\build\intermediates\merged_res\debug\mergeDebugResources
+il.co.radioapp-debug-44 C:\abc\RadioIsrael_Android_v4\app\src\debug\res
+il.co.radioapp-main-45 C:\abc\RadioIsrael_Android_v4\app\src\main\res

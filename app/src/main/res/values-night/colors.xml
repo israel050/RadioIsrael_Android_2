@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#0F1117</color>
+    <color name="colorSurface">#1A1D27</color>
+    <color name="colorCard">#252836</color>
+    <color name="colorAppBar">#1A1D27</color>
+    <color name="colorMiniPlayer">#1A1D27</color>
+    <color name="colorTabBar">#1A1D27</color>
+    <color name="colorPlayerBg">#0F1117</color>
+
+    <color name="colorPrimary">#82B4FF</color>
+    <color name="colorPrimaryDark">#5A9BFF</color>
+    <color name="colorAccent">#FF6B9E</color>
+    <color name="colorAccentLight">#3D1A2A</color>
+    <color name="brand_blue_light">#1A2845</color>
+
+    <color name="colorOnSurface">#E3E3E8</color>
+    <color name="textPrimary">#E3E3E8</color>
+    <color name="textSecondary">#A9A9B4</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+    <color name="textOnSurface">#E3E3E8</color>
+    <color name="textHint">#6B6B80</color>
+
+    <color name="colorDivider">#2A2D3A</color>
+    <color name="colorRipple">#2982B4FF</color>
+    <color name="colorIcon">#A9A9B4</color>
+    <color name="colorIconSecondary">#6B6B80</color>
+    <color name="heartActive">#FF6B9E</color>
+    <color name="heartInactive">#4A4A5A</color>
+    <color name="colorBadge">#FF6B9E</color>
+    <color name="colorBadgeText">#FFFFFF</color>
+    <color name="colorStationNumber">#6B6B80</color>
+
+    <color name="colorTabSelected">#82B4FF</color>
+    <color name="colorTabUnselected">#6B6B80</color>
+    <color name="colorTabIndicator">#82B4FF</color>
+    <color name="colorStatusBar">#0F1117</color>
+</resources>
+
+
+

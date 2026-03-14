@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorSurface"
+    android:layoutDirection="rtl"
+    android:paddingBottom="16dp">
+
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="מה להוסיף?"
+        android:textSize="16sp" android:textStyle="bold" android:textColor="@color/textPrimary"
+        android:padding="20dp"/>
+
+    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="@color/colorDivider"/>
+
+    <LinearLayout android:id="@+id/optExistingStation"
+        android:layout_width="match_parent" android:layout_height="56dp"
+        android:orientation="horizontal" android:gravity="center_vertical"
+        android:paddingHorizontal="20dp" android:background="?attr/selectableItemBackground">
+        <TextView android:layout_width="28dp" android:layout_height="wrap_content"
+            android:text="📻" android:textSize="20sp"/>
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:layout_marginStart="12dp"
+            android:text="תחנה קיימת (חיפוש)" android:textSize="15sp" android:textColor="@color/textPrimary"/>
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/optNewStation"
+        android:layout_width="match_parent" android:layout_height="56dp"
+        android:orientation="horizontal" android:gravity="center_vertical"
+        android:paddingHorizontal="20dp" android:background="?attr/selectableItemBackground">
+        <TextView android:layout_width="28dp" android:layout_height="wrap_content"
+            android:text="📡" android:textSize="20sp"/>
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:layout_marginStart="12dp"
+            android:text="תחנה חדשה (URL ידני)" android:textSize="15sp" android:textColor="@color/textPrimary"/>
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/optSubcategory"
+        android:layout_width="match_parent" android:layout_height="56dp"
+        android:orientation="horizontal" android:gravity="center_vertical"
+        android:paddingHorizontal="20dp" android:background="?attr/selectableItemBackground">
+        <TextView android:layout_width="28dp" android:layout_height="wrap_content"
+            android:text="📁" android:textSize="20sp"/>
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:layout_marginStart="12dp"
+            android:text="תת-קטגוריה חדשה" android:textSize="15sp" android:textColor="@color/textPrimary"/>
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/optSeparator"
+        android:layout_width="match_parent" android:layout_height="56dp"
+        android:orientation="horizontal" android:gravity="center_vertical"
+        android:paddingHorizontal="20dp" android:background="?attr/selectableItemBackground">
+        <TextView android:layout_width="28dp" android:layout_height="wrap_content"
+            android:text="──" android:textSize="18sp" android:textColor="@color/textSecondary"/>
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:layout_marginStart="12dp"
+            android:text="מפריד" android:textSize="15sp" android:textColor="@color/textPrimary"/>
+    </LinearLayout>
+
+</LinearLayout>

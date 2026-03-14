@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  כל השורה לחיצה = כניסה לתת-קטגוריה.
+  החץ (←) הוא אינדיקטור ויזואלי בלבד — ללא click-listener נפרד.
+  בסביבת RTL: הטקסט מימין, החץ משמאל (pattern סטנדרטי לאפליקציות עברית).
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="52dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingStart="16dp"
+    android:paddingEnd="12dp"
+    android:background="?attr/selectableItemBackground"
+    android:layoutDirection="rtl">
+
+    <!-- אייקון קטגוריה — צד ימין (leading ב-RTL) -->
+    <ImageView
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:src="@drawable/ic_category"
+        android:tint="@color/colorAccent"
+        android:alpha="0.75"
+        android:contentDescription="" />
+
+    <!-- שם תת-הקטגוריה -->
+    <TextView
+        android:id="@+id/tvSubcategory"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="10dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/textPrimary" />
+
+    <!-- חץ ניווט — צד שמאל (trailing ב-RTL) — ויזואל בלבד -->
+    <ImageView
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:src="@drawable/ic_arrow_left"
+        android:tint="@color/textSecondary"
+        android:alpha="0.6"
+        android:contentDescription="" />
+
+</LinearLayout>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackground"
+    android:layoutDirection="rtl"
+    android:padding="16dp">
+
+    <!-- Top row: favorite (right) + minimize (left) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/btnFavorite"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_heart_outline"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="מועדפים"/>
+
+        <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+
+        <ImageButton
+            android:id="@+id/btnMinimize"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_arrow_down"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:tint="@color/colorIcon"
+            android:contentDescription="מזעור"/>
+    </LinearLayout>
+
+    <!-- Logo -->
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/ic_radio"
+        android:scaleType="centerInside"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="8dp"/>
+
+    <!-- Station name -->
+    <TextView
+        android:id="@+id/tvStationName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="שם התחנה"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/textPrimary"
+        android:gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <!-- Error banner — מוצג כשיש שגיאת הזרמה -->
+    <TextView
+        android:id="@+id/tvErrorBanner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:textSize="13sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:background="#CCE53935"
+        android:visibility="gone" />
+
+    <!-- ── Now Playing — slim chip (hidden until data arrives) ── -->
+    <LinearLayout
+        android:id="@+id/llNowPlaying"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="8dp"
+        android:paddingVertical="6dp"
+        android:paddingHorizontal="10dp"
+        android:background="@color/colorSurface"
+        android:visibility="gone">
+
+        <!-- ♪ icon -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="♪"
+            android:textSize="13sp"
+            android:textColor="@color/colorAccent"
+            android:layout_marginEnd="6dp"/>
+
+        <!-- Artist + Title stacked, take remaining width -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvArtistName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="@color/colorAccent"
+                android:singleLine="true"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/tvSongTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:textColor="@color/textPrimary"
+                android:singleLine="true"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true"
+                android:focusable="true"
+                android:focusableInTouchMode="true"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Spacer pushes controls to center-ish -->
+    <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+
+    <!-- Controls -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/btnNext"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:src="@drawable/ic_next"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:tint="@color/textPrimary"
+            android:contentDescription="תחנה הבאה"/>
+
+        <ImageButton
+            android:id="@+id/btnPlayPause"
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:src="@drawable/ic_play"
+            android:backgroundTint="@color/colorAccent"
+            android:background="@drawable/bg_circle"
+            android:tint="@android:color/white"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:contentDescription="נגן / השהה"/>
+
+        <ImageButton
+            android:id="@+id/btnPrev"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:src="@drawable/ic_prev"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:tint="@color/textPrimary"
+            android:contentDescription="תחנה קודמת"/>
+    </LinearLayout>
+
+    <!-- Volume -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp">
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:src="@drawable/ic_volume"
+            android:tint="@color/textSecondary"/>
+
+        <SeekBar
+            android:id="@+id/seekVolume"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:max="100"
+            android:progress="100"
+            android:progressTint="@color/colorAccent"
+            android:thumbTint="@color/colorAccent"
+            android:paddingStart="10dp"
+            android:paddingEnd="4dp"/>
+    </LinearLayout>
+
+    <!-- Spacer bottom -->
+    <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+
+</LinearLayout>
+
+
+

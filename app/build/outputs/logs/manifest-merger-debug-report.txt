@@ -1,0 +1,469 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\d1debc4d87ae920027faf48ac0500788\transformed\jetified-viewbinding-8.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a8b514434979541ce0dfa99e639d5c85\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a77657b966f756ac85c0b8764a8d9289\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\5189a07eafb7bc60196dd8a13a6d22b9\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\db9b94a2a02901e26da446beb5006f76\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\9bbd3f3c9d240e846f0a1d637fb2a357\transformed\recyclerview-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1865fee4bd690ff9fd71f73d957b01a3\transformed\jetified-viewpager2-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fb6be7f55a5fe63130872d570c74356c\transformed\jetified-glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f912907bfa8da765d280170afbad8123\transformed\fragment-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\23d3e9aa9b9873c082086760e058248c\transformed\jetified-fragment-ktx-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media3:media3-session:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\d2a85e5963dc955ca062533781eaadf6\transformed\jetified-media3-session-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-extractor:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\560b34f20a067678589ade8d05d54b65\transformed\jetified-media3-extractor-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\9e4504df169bae254f1ed33f6ebd337f\transformed\jetified-media3-container-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ca3aba7a96df14ce6b23ff76cfd4c565\transformed\jetified-media3-datasource-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\31f9a34ca8a9f60259db386a2b232f26\transformed\jetified-media3-decoder-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a50f4f4f810c6dbec867908436c0380f\transformed\jetified-media3-database-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b9bd07eb04ae6117ad22d5e0158be273\transformed\jetified-media3-common-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-exoplayer-hls:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\8e00369df0835bfdc1b144156ca099ec\transformed\jetified-media3-exoplayer-hls-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3c16e88600536977d2a03cb6e06e8b1f\transformed\jetified-media3-exoplayer-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6b0be2a869c36e8feb899d840492689a\transformed\media-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6ed5b9a8c15a0891a72b49f076271720\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\874507e6a4efd5f147a276c607dc2458\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ee45bc08a2744cd0e8927709186da0fc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\962c7ff53d9f5c000e693ec6d53e21fb\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\4199dcde1ec3a257192acc15a1dbac6d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1654e606cd7ef85d5c6b41e102e11623\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\75511abafaa2b4c9e0033e55f3f4c0e5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\924f01ba115400bddb9081c7508b1ee5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\96ef7aab63f2e4742076535ed3b7152d\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f977f66cfb74893eb7ab4035d844249f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2df0ba94e2a7ce7bef5a1fac80a2b5a5\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\97701624f9f3180a5c551afc372a7652\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ddcd0501df9d47cb4968ce7207471761\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\dea949299e528bc98e3deb231a8bdaa2\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\86f0619eb7362276d1d1176064eb52f0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fa84fe37e516ea7731ae724009e4fddc\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2691961b265700b3aa29ef4d8115ba43\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\cbe10bb4a71814894f00afc158fd3a6b\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\22f1cc28fc2a17394effe596e1e8b6c1\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fe55ffb23ca5a1c9fdedca5dca1ea392\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\06f9e2cc46eb98dc9579946b0796ad46\transformed\jetified-lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\7f897e0e740b4bdff14a4d8e873a9998\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\375f198fed91cee823d2781325ba0b1b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0fefe763c50bada6c63a1c14b114b6a8\transformed\jetified-lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\eecebecbf1dfbe1f2eaf3fe6648c0fcd\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\61bc063c9de771911d548d8044c2ce94\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2c34d9bc57e9cdad51b7010132c835d0\transformed\jetified-core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3a00d66e7e879f34722a1946f4b97abe\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\baa3d60ce9eb5963b05ab6218e9db2d6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2afdbe4acc991a47a7557a8689961517\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f6026caeae58aa33e8cbc80f49b5418c\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c30f250c99cc4d166c2d6918e80cba36\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3284ec1db9fa952c63c66a0921bd6333\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0f3c7429881296a927c517cb48ed7097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c5ffe02eca44c57097c2d475bdc36083\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b1bc7725decc728b2e5c0ad56c001a5e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ed9cdc6c09c75cc10e7c5fe74785c50c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1e5ff95ab19b62fbbb46caecee2d3f80\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\bbeddfb7d9c9307f4d11efed40149389\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:5:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:6:5-91
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:6:22-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:8:22-65
+application
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:10:5-75:19
+INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:10:5-75:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a8b514434979541ce0dfa99e639d5c85\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a8b514434979541ce0dfa99e639d5c85\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a77657b966f756ac85c0b8764a8d9289\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a77657b966f756ac85c0b8764a8d9289\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0f3c7429881296a927c517cb48ed7097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0f3c7429881296a927c517cb48ed7097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:17:9-49
+	android:networkSecurityConfig
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:13:9-69
+	android:usesCleartextTraffic
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:11:9-33
+activity#il.co.radioapp.MainActivity
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:launchMode
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:23:13-43
+	android:windowSoftInputMode
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:24:13-55
+	android:exported
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:27:27-74
+activity#il.co.radioapp.CatalogEditorActivity
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:31:9-35:57
+	android:parentActivityName
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:35:13-55
+	android:windowSoftInputMode
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:34:13-55
+	android:exported
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:32:13-50
+activity#il.co.radioapp.Top25EditorActivity
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:37:9-41:57
+	android:parentActivityName
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:41:13-55
+	android:windowSoftInputMode
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:40:13-55
+	android:exported
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:38:13-48
+activity#il.co.radioapp.SearchActivity
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:43:9-47:57
+	android:parentActivityName
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:47:13-55
+	android:windowSoftInputMode
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:46:13-68
+	android:exported
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:44:13-43
+activity#il.co.radioapp.PlayerActivity
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:49:9-52:57
+	android:parentActivityName
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:52:13-55
+	android:exported
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:50:13-43
+service#il.co.radioapp.service.RadioPlayerService
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:54:9-61:19
+	android:exported
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:56:13-37
+	android:foregroundServiceType
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:57:13-58
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:55:13-55
+intent-filter#action:name:androidx.media3.session.MediaSessionService
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:58:13-60:29
+action#androidx.media3.session.MediaSessionService
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:59:17-85
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:59:25-83
+receiver#il.co.radioapp.receiver.NotificationActionReceiver
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:63:9-73:20
+	android:exported
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:64:13-64
+intent-filter#action:name:il.co.radioapp.NEXT+action:name:il.co.radioapp.PAUSE+action:name:il.co.radioapp.PLAY+action:name:il.co.radioapp.PREV+action:name:il.co.radioapp.STOP
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:66:13-72:29
+action#il.co.radioapp.PLAY
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:67:17-61
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:67:25-59
+action#il.co.radioapp.PAUSE
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:68:17-62
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:68:25-60
+action#il.co.radioapp.NEXT
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:69:17-61
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:69:25-59
+action#il.co.radioapp.PREV
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:70:17-61
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:70:25-59
+action#il.co.radioapp.STOP
+ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:71:17-61
+	android:name
+		ADDED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml:71:25-59
+uses-sdk
+INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\d1debc4d87ae920027faf48ac0500788\transformed\jetified-viewbinding-8.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\d1debc4d87ae920027faf48ac0500788\transformed\jetified-viewbinding-8.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a8b514434979541ce0dfa99e639d5c85\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a8b514434979541ce0dfa99e639d5c85\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a77657b966f756ac85c0b8764a8d9289\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a77657b966f756ac85c0b8764a8d9289\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\5189a07eafb7bc60196dd8a13a6d22b9\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\5189a07eafb7bc60196dd8a13a6d22b9\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\db9b94a2a02901e26da446beb5006f76\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\db9b94a2a02901e26da446beb5006f76\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\9bbd3f3c9d240e846f0a1d637fb2a357\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\9bbd3f3c9d240e846f0a1d637fb2a357\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1865fee4bd690ff9fd71f73d957b01a3\transformed\jetified-viewpager2-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1865fee4bd690ff9fd71f73d957b01a3\transformed\jetified-viewpager2-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fb6be7f55a5fe63130872d570c74356c\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fb6be7f55a5fe63130872d570c74356c\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f912907bfa8da765d280170afbad8123\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f912907bfa8da765d280170afbad8123\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\23d3e9aa9b9873c082086760e058248c\transformed\jetified-fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\23d3e9aa9b9873c082086760e058248c\transformed\jetified-fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media3:media3-session:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\d2a85e5963dc955ca062533781eaadf6\transformed\jetified-media3-session-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-session:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\d2a85e5963dc955ca062533781eaadf6\transformed\jetified-media3-session-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\560b34f20a067678589ade8d05d54b65\transformed\jetified-media3-extractor-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\560b34f20a067678589ade8d05d54b65\transformed\jetified-media3-extractor-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\9e4504df169bae254f1ed33f6ebd337f\transformed\jetified-media3-container-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\9e4504df169bae254f1ed33f6ebd337f\transformed\jetified-media3-container-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ca3aba7a96df14ce6b23ff76cfd4c565\transformed\jetified-media3-datasource-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ca3aba7a96df14ce6b23ff76cfd4c565\transformed\jetified-media3-datasource-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\31f9a34ca8a9f60259db386a2b232f26\transformed\jetified-media3-decoder-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\31f9a34ca8a9f60259db386a2b232f26\transformed\jetified-media3-decoder-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a50f4f4f810c6dbec867908436c0380f\transformed\jetified-media3-database-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a50f4f4f810c6dbec867908436c0380f\transformed\jetified-media3-database-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b9bd07eb04ae6117ad22d5e0158be273\transformed\jetified-media3-common-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b9bd07eb04ae6117ad22d5e0158be273\transformed\jetified-media3-common-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\8e00369df0835bfdc1b144156ca099ec\transformed\jetified-media3-exoplayer-hls-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\8e00369df0835bfdc1b144156ca099ec\transformed\jetified-media3-exoplayer-hls-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3c16e88600536977d2a03cb6e06e8b1f\transformed\jetified-media3-exoplayer-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3c16e88600536977d2a03cb6e06e8b1f\transformed\jetified-media3-exoplayer-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6b0be2a869c36e8feb899d840492689a\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6b0be2a869c36e8feb899d840492689a\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6ed5b9a8c15a0891a72b49f076271720\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6ed5b9a8c15a0891a72b49f076271720\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\874507e6a4efd5f147a276c607dc2458\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\874507e6a4efd5f147a276c607dc2458\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ee45bc08a2744cd0e8927709186da0fc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ee45bc08a2744cd0e8927709186da0fc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\962c7ff53d9f5c000e693ec6d53e21fb\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\962c7ff53d9f5c000e693ec6d53e21fb\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\4199dcde1ec3a257192acc15a1dbac6d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\4199dcde1ec3a257192acc15a1dbac6d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1654e606cd7ef85d5c6b41e102e11623\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1654e606cd7ef85d5c6b41e102e11623\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\75511abafaa2b4c9e0033e55f3f4c0e5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\75511abafaa2b4c9e0033e55f3f4c0e5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\924f01ba115400bddb9081c7508b1ee5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\924f01ba115400bddb9081c7508b1ee5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\96ef7aab63f2e4742076535ed3b7152d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\96ef7aab63f2e4742076535ed3b7152d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f977f66cfb74893eb7ab4035d844249f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f977f66cfb74893eb7ab4035d844249f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2df0ba94e2a7ce7bef5a1fac80a2b5a5\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2df0ba94e2a7ce7bef5a1fac80a2b5a5\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\97701624f9f3180a5c551afc372a7652\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\97701624f9f3180a5c551afc372a7652\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ddcd0501df9d47cb4968ce7207471761\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ddcd0501df9d47cb4968ce7207471761\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\dea949299e528bc98e3deb231a8bdaa2\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\dea949299e528bc98e3deb231a8bdaa2\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\86f0619eb7362276d1d1176064eb52f0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\86f0619eb7362276d1d1176064eb52f0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fa84fe37e516ea7731ae724009e4fddc\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fa84fe37e516ea7731ae724009e4fddc\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2691961b265700b3aa29ef4d8115ba43\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2691961b265700b3aa29ef4d8115ba43\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\cbe10bb4a71814894f00afc158fd3a6b\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\cbe10bb4a71814894f00afc158fd3a6b\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\22f1cc28fc2a17394effe596e1e8b6c1\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\22f1cc28fc2a17394effe596e1e8b6c1\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fe55ffb23ca5a1c9fdedca5dca1ea392\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\fe55ffb23ca5a1c9fdedca5dca1ea392\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\06f9e2cc46eb98dc9579946b0796ad46\transformed\jetified-lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\06f9e2cc46eb98dc9579946b0796ad46\transformed\jetified-lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\7f897e0e740b4bdff14a4d8e873a9998\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\7f897e0e740b4bdff14a4d8e873a9998\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\375f198fed91cee823d2781325ba0b1b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\375f198fed91cee823d2781325ba0b1b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0fefe763c50bada6c63a1c14b114b6a8\transformed\jetified-lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0fefe763c50bada6c63a1c14b114b6a8\transformed\jetified-lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\eecebecbf1dfbe1f2eaf3fe6648c0fcd\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\eecebecbf1dfbe1f2eaf3fe6648c0fcd\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\61bc063c9de771911d548d8044c2ce94\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\61bc063c9de771911d548d8044c2ce94\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2c34d9bc57e9cdad51b7010132c835d0\transformed\jetified-core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2c34d9bc57e9cdad51b7010132c835d0\transformed\jetified-core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3a00d66e7e879f34722a1946f4b97abe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3a00d66e7e879f34722a1946f4b97abe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\baa3d60ce9eb5963b05ab6218e9db2d6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\baa3d60ce9eb5963b05ab6218e9db2d6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2afdbe4acc991a47a7557a8689961517\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\2afdbe4acc991a47a7557a8689961517\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f6026caeae58aa33e8cbc80f49b5418c\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\f6026caeae58aa33e8cbc80f49b5418c\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c30f250c99cc4d166c2d6918e80cba36\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c30f250c99cc4d166c2d6918e80cba36\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3284ec1db9fa952c63c66a0921bd6333\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3284ec1db9fa952c63c66a0921bd6333\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0f3c7429881296a927c517cb48ed7097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\0f3c7429881296a927c517cb48ed7097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c5ffe02eca44c57097c2d475bdc36083\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\c5ffe02eca44c57097c2d475bdc36083\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b1bc7725decc728b2e5c0ad56c001a5e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b1bc7725decc728b2e5c0ad56c001a5e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ed9cdc6c09c75cc10e7c5fe74785c50c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ed9cdc6c09c75cc10e7c5fe74785c50c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1e5ff95ab19b62fbbb46caecee2d3f80\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\1e5ff95ab19b62fbbb46caecee2d3f80\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\bbeddfb7d9c9307f4d11efed40149389\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\bbeddfb7d9c9307f4d11efed40149389\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\abc\RadioIsrael_Android_v4\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.media3:media3-common:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b9bd07eb04ae6117ad22d5e0158be273\transformed\jetified-media3-common-1.5.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3c16e88600536977d2a03cb6e06e8b1f\transformed\jetified-media3-exoplayer-1.5.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\3c16e88600536977d2a03cb6e06e8b1f\transformed\jetified-media3-exoplayer-1.5.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [androidx.media3:media3-common:1.5.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\b9bd07eb04ae6117ad22d5e0158be273\transformed\jetified-media3-common-1.5.1\AndroidManifest.xml:22:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\017d08cb0dad032093d4eff2edb8cba7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\6f05ac706a2374c9e216569bf97b28c6\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#il.co.radioapp.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#il.co.radioapp.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\ded8c88a7a0972a864ac064c858d2ed4\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\71279bf5c04ad2bba56b58e73bff5b3d\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ישראל גולדווסר\.gradle\caches\8.11.1\transforms\a3b3a98ad38b4aa85e643afee3b93ea4\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

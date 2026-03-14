@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorSurface"
+    android:layoutDirection="rtl">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/tvEditorTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="עריכת תחנה"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/textPrimary"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="שם תחנה" android:textSize="12sp" android:textColor="@color/textSecondary"/>
+        <EditText android:id="@+id/etStationName"
+            android:layout_width="match_parent" android:layout_height="48dp"
+            android:background="@drawable/bg_input" android:textColor="@color/textPrimary"
+            android:textSize="15sp" android:paddingHorizontal="12dp"
+            android:hint="השאר ריק לשם המקורי" android:layout_marginBottom="12dp"/>
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="כתובת הזרמה (URL)" android:textSize="12sp" android:textColor="@color/textSecondary"/>
+        <EditText android:id="@+id/etStreamUrl"
+            android:layout_width="match_parent" android:layout_height="48dp"
+            android:background="@drawable/bg_input" android:textColor="@color/textPrimary"
+            android:textSize="13sp" android:paddingHorizontal="12dp"
+            android:inputType="textUri" android:layout_marginBottom="4dp"/>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:gravity="center_vertical"
+            android:layout_marginBottom="12dp">
+            <Button android:id="@+id/btnTestUrl"
+                android:layout_width="wrap_content" android:layout_height="36dp"
+                android:text="בדוק חיבור" android:textSize="13sp"
+                android:backgroundTint="@color/colorSurface"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+            <TextView android:id="@+id/tvTestResult"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:textSize="12sp"
+                android:textColor="@color/textSecondary" android:layout_marginStart="8dp"/>
+        </LinearLayout>
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="כתובת לוגו (URL, אופציונלי)" android:textSize="12sp" android:textColor="@color/textSecondary"/>
+        <EditText android:id="@+id/etLogoUrl"
+            android:layout_width="match_parent" android:layout_height="48dp"
+            android:background="@drawable/bg_input" android:textColor="@color/textPrimary"
+            android:textSize="13sp" android:paddingHorizontal="12dp"
+            android:inputType="textUri" android:layout_marginBottom="20dp"/>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:gravity="end">
+            <Button android:id="@+id/btnCancel"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="ביטול"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+            <Button android:id="@+id/btnSave"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="שמור" android:layout_marginStart="8dp"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@android:color/white"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

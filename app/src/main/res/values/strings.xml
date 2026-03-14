@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">רדיו ישראל</string>
+    <string name="search_hint">חפש תחנה...</string>
+    <string name="no_favorites">לא סימנת עדיין תחנות. לחץ על הלב ♥ ליד תחנה כדי לשמור אותה.</string>
+    <string name="no_results">לא נמצאו תחנות</string>
+    <string name="catalog_editor_title">ניהול תחנות</string>
+    <string name="rename">שינוי שם</string>
+    <string name="delete">מחיקה</string>
+    <string name="confirm">אישור</string>
+    <string name="add_category">הוסף קטגוריה</string>
+    <string name="category_deleted">קטגוריה נמחקה</string>
+    <string name="undo">ביטול</string>
+    <string name="error_stream_blocked">הזרמה חסומה בסינון</string>
+    <string name="error_no_connection">אין חיבור לאינטרנט</string>
+    <string name="error_server">שגיאת שרת</string>
+    <string name="coming_in_next_version">בגרסה הבאה</string>
+</resources>
+
+
+
